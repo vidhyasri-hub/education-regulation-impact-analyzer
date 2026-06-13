@@ -1,0 +1,1860 @@
+ 
+  
+Language Resource Centers (LRC)  
+PROGRAM ADMINISTRATION MANUAL (PAM) 
+International and Foreign Language Education 
+U.S. Department of Education |Office of Postsecondary Education 
+400 Maryland Avenue, S.W. |Washington, D.C. 20202 
+Website | Twitter | YouTube | Newsletter 
+ 
+LRC  Program Administration Manual 
+FY 2022-2025 
+Table of Contents 
+ 
+2 
+Table of Contents 
+Purpose of the PAM and Contacts ........................................................................................................ 3 
+The Basics: Grant Roles and Responsibilities ........................................................................................ 4 
+Grant Schedule and Continuation Awards ............................................................................................ 7 
+Reporting in the IRIS System ................................................................................................................. 9 
+LRC Administration Essentials ............................................................................................................. 10 
+LRC Travel Guidance ............................................................................................................................ 15 
+CHEAT SHEETS 
+Cheat Sheet – LRC Grant Administration ............................................................................................ 18 
+Cheat Sheet – Fly America Act and Open Skies .................................................................................. 19 
+APPENDICES 
+Appendix A – Glossary of Selected Grant Terms ................................................................................ 21 
+Appendix B – International Education General Provisions Definitions .............................................. 28 
+Appendix C – Government Performance and Results Measures ....................................................... 29 
+Appendix D – Financial Management and Drawdowns ..................................................................... 30 
+Appendix E – Legislation and Regulation Resources .......................................................................... 32 
+Appendix F – LRC Official Program Citations ...................................................................................... 33 
+Appendix G – Fly America and Open Skies ......................................................................................... 35 
+Appendix H – Subaward Resources..................................................................................................... 39 
+Appendix I – The Site Visit ................................................................................................................... 47 
+Appendix J – Open Licensing and Citing Support ................................................................................ 48 
+Appendix K – Engage with IFLE Flyer ................................................................................................... 50 
+LRC  Program Administration Manual 
+FY 2022-2025 
+Purpose of the PAM and Contacts 
+ 
+3 
+Purpose of the PAM and Contacts 
+Purpose of the Program Administrative Manual (PAM) 
+The International and Foreign Language Education (IFLE) Office of the U.S. Department of Education 
+administers 11 discretionary grant programs authorized under the Fulbright-Hays Act of 1961 and Title 
+VI and Title VII of the Higher Education Act (HEA) of 1965, as amended. 
+This Program Administration Manual (PAM) for the Language Resource Centers (LRC) program was 
+developed to help ensure successful project administration and fiscal accountability throughout the 
+duration of the grant. 
+The program officer and grantees share the responsibility of maintaining compliance. 
+The Fiscal Year (FY) 2022-2025 PAM provides information on reporting requirements and schedules, LRC 
+administration, and other topics. The FY 2022-2025 PAM offers the most essential information in pages 
+3-19 (including one-page “cheat sheets” for program staff on pages 18-19), with appendices offering 
+additional detailed information.  
+Contacts 
+IFLE’s Advanced Training and Research Division (ATRD) administers LRC grants. Please feel free to 
+contact the LRC program officer with questions, comments and concerns or to seek additional 
+information about the administration of your LRC grant. 
+Assignment 
+Contact Person 
+Email Address 
+Phone Number 
+Cheryl Gibbs 
+Senior Director of IFLE 
+cheryl.gibbs@ed.gov 
+202-453-5690 
+Sarah Beaton 
+ATRD Director 
+sarah.beaton@ed.gov 
+202-453-7221 
+Carolyn Collins 
+LRC Program Officer 
+carolyn.collins@ed.gov 
+202-453-7854 
+LRC  Program Administration Manual 
+FY 2022-2025 
+The Basics: Grant Roles and Responsibilities 
+ 
+4 
+The Basics: Grant Roles and Responsibilities 
+IFLE Program Officer Responsibilities 
+Monitoring project implementation 
++ 
+Providing technical assistance to grantees on programmatic and fiscal management 
+= 
+Helping to ensure that project goals and objectives are met successfully 
+Program officers: 
+□ Review performance reports and external evaluation reports;  
+□ Monitor projects to assess compliance;  
+□ Make determinations of substantial progress (see Glossary); 
+□ Respond to questions and provide guidance on grant management; 
+□ Process requests (e.g., administrative actions such as project director changes, travel approvals, 
+etc.) in a timely manner. 
+These tasks are achieved through day-to-day communication with grantees, and through virtual and on-
+campus site visits. 
+Institution Responsibilities 
+The institution (grantee) is the legal entity accountable to the U.S. Government for the use of federal 
+funds. The institution must: 
+□ Comply with the applicable legislation and regulations for the program; 
+□ Expend funds in accordance with the program’s allowable costs and the approved application; 
+□ Directly supervise project administration; 
+□ Use fiscal control and accounting procedures that ensure accountability of federal funds. 
+Project Director Responsibilities 
+The Project Director (PD) must:  
+□ Ensure that the scope of work described in the funded application’s approved narrative and 
+budget is performed; 
+□ Exercise proper stewardship of federal funds;  
+□ Comply with all legislative and regulatory requirements;  
+□ Submit required performance reports that demonstrate and/or measure progress toward the 
+achievement of project goals.  
+LRC  Program Administration Manual 
+FY 2022-2025 
+The Basics: Grant Roles and Responsibilities 
+ 
+5 
+The PD is responsible for communicating with the IFLE program officer to submit requests to: 
+□ Transfer funds among direct cost categories (when the cumulative amount of transfers exceeds 
+10% of the total project budget for the budget period (fiscal year) – see page 11 for more 
+information); 
+□ Change the scope or the objective(s) of the project; 
+□ Contract out any of the project activities described in the application; 
+□ Change the project director or authorized representative/official as listed on the application,  
+SF-424, or Grant Award Notification (GAN) document. See page 13 for more information. 
+Note: The grantee must notify the program officer in writing if the Project Director is going to be absent 
+for a period of more than three months. 
+Consortium Project Responsibilities 
+The lead institution is accountable for all partner institutions with regards to reporting, activities, and 
+outcomes of the grant. That said, the activities conducted by all institutions in a consortium are equally 
+important to the overall project and they complement the training, research, and outreach activities of 
+each member institution. The extent to which activities are well-coordinated and communication occurs 
+between/among the institutions determines the overall success and effectiveness of the consortium. 
+IFLE recommends that consortia establish an agreement document to clearly outline the partnership 
+and responsibilities of each institution. In a consortium project, the Project Director at the lead 
+institution (the institution that receives the Grant Award Notification) is responsible for ensuring that all 
+partners conduct their respective activities in compliance with the approved plan; use grant funds in 
+accordance with the negotiated revised budget; and submit performance report data and narratives on 
+time and in a complete manner. The lead institution, as the direct and primary recipient of IFLE grant 
+funds, is accountable to IFLE for the performance of the project, the appropriate expenditure of grant 
+funds by all parties, applicable reporting requirements, and all other obligations of the grantee. The lead 
+institution is also responsible for sharing information from IFLE with the partner institution(s). 
+With regards to consortium reporting: The IRIS system will only allow one budget file to be uploaded to 
+a performance report. Each institution should submit their budgets on a separate sheet, within one file 
+(e.g., two Excel worksheets within one Excel Workbook). 
+Subawards 
+Grantees can establish a subaward with any organization that performs grant-supported research 
+activities and shares responsibility with the grantee for administering substantive aspects of the project. 
+Directly implementing project activities at another institution does not necessarily constitute a 
+subaward.  
+For example, providing a faculty stipend to a faculty member at the consortium partner is not a 
+subaward. Grantees are responsible for making the correct determinations regarding these 
+relationships. 
+LRC  Program Administration Manual 
+FY 2022-2025 
+The Basics: Grant Roles and Responsibilities 
+ 
+6 
+Each subaward must have a formal written agreement for meeting the administrative, financial, and 
+reporting requirements of the grant. IFLE holds grantees accountable for their subawardees' research, 
+spending, and reporting actions, which must conform to all terms and conditions of the grant 
+award. Subawardees cannot use funds from the grantee to form their own subaward agreements with 
+other organizations—no third party or third tier subawards are allowed. Project Directors may only 
+approve subawardee actions that are consistent with the terms and conditions of the grant. 
+Grant Management Systems and Technical Support 
+IFLE requires grantees to use two information technology systems for grant administration and 
+reporting purposes. G5 (G5.gov) is used throughout the Department. The G5 system provides access to 
+official documentation and financial information for each grant. IFLE also employs the International 
+Resource Information System (IRIS) for grant reporting. The Help Desk for each system is responsible for 
+providing technical support to users. Program officers do not have access to technical support 
+information or tools, they can only assist with programmatic and financial issues. 
+G5 help is available via the e-mail and phone numbers below. 
+• 
+Hours Of Operation: 8:00 AM to 6:00 PM EST, Monday - Friday, except on Federal holidays.  
+• 
+Toll-Free: 1-888-336-8930  
+• 
+TTY: 1-800-877-8339  
+• 
+Local: 202-401-6238 
+• 
+Email: obssed@servicenowservices.com  
+IRIS help is available on the IRIS website. 
+LRC  Program Administration Manual 
+FY 2022-2025 
+Grant Schedule and Continuation Awards 
+ 
+7 
+Grant Schedule and Continuation Awards 
+Project Period and Budget Periods 
+The project period, also known as the performance period, is the Department-approved timeframe for 
+a grantee to complete project activities described in the application. The FY 2022 LRC project period is 
+48 months. 
+The LRC multi-year grant is funded in annual increments (contingent on Congress appropriating funds in 
+its fiscal year budget) called budget periods. A single budget period is a 12-month period. The LRC grant 
+consists of four budget periods, as indicated in the chart in below. 
+LRC Budget Periods 
+FISCAL YEAR 
+BUDGET PERIOD 
+ACADEMIC YEAR 
+SUMMER 
+2022 
+8/15/22 - 8/14/23 
+AY 2022-2023 
+Summer 2023 
+2023 
+8/15/23 - 8/14/24 
+AY 2023-2024 
+Summer 2024 
+2024 
+8/15/24 – 8/14/25 
+AY 2024-2025 
+Summer 2025 
+2025 
+8/15/25 – 8/14/26 
+AY 2025-2026 
+Summer 2026 
+Non-Competing Continuation Awards 
+The new grant award in the first year of the grant cycle is a direct outcome of the competition and 
+reflects budgetary conditions in that fiscal year. Funding during subsequent years of the grant cycle is 
+contingent upon the availability of funds and the grantees’ success in conducting project activities.  
+Non-competing continuation (NCC) awards cover the second, third, and fourth years of the award. NCCs 
+are processed after the grantee submits an annual performance report, which grantees are required to 
+submit according to the schedules on page 9. The assigned program officer must determine that the 
+report demonstrates substantial progress to process the NCC award. To determine substantial progress, 
+the IFLE program officer will review the report for budget and narrative information supporting the 
+objectives of the grant, and for exemplary program or project achievements. Program officers also 
+assess elements of risk for the grant award when processing NCC awards. 
+NCC award amounts are not guaranteed to be the same throughout the grant cycle and can be affected 
+by several factors, including changes in congressional appropriations, a determination that substantial 
+progress has not been made, or other programmatic or budgetary factors. Once NCC amounts are 
+confirmed and communicated by the program officer to the grantee, the grantee is required to submit a 
+revised budget reflecting the amount of the continuation award. 
+LRC  Program Administration Manual 
+FY 2022-2025 
+Grant Schedule and Continuation Awards 
+ 
+8 
+Risk Management 
+IFLE staff consider a number of factors when assessing risk and making NCC determinations, including: 
+• 
+Designation of the grant or entity as high risk1; 
+• 
+Grantee compliance with risk mitigation strategies imposed on the award (in the case of past 
+risk citations); 
+• 
+Excessive drawdowns during the previous budget period; 
+• 
+Large available balance resulting in a substantial carryover request; 
+• 
+Frequent turnover of project director position; 
+• 
+Substantial progress made / on schedule toward achieving grant objectives; 
+• 
+Required performance reports submitted in accordance with reporting deadlines; 
+• 
+Current financial and performance information in G5 and IRIS; 
+• 
+Progress noted on corrective actions, if applicable; 
+• 
+Audit findings under 2 CFR § Part 200, Subpart F Audit Requirements; or the institution’s 
+response to corrective actions to prior audit findings; 
+• 
+Grant award history in G5. 
+Additionally, program staff must consider any issues or concerns, identified through day-to-day 
+oversight, routine monitoring, and technical assistance efforts, that might adversely affect a grantee’s 
+performance under a continuation award (e.g.; inefficient internal controls, poor oversight of the 
+project). 
+IFLE program officers will consult with the Department’s Office of the General Counsel (OGC) and ED 
+Risk Management Services to employ additional risk mitigation strategies, if needed. 
+ 
+1 “High risk” (see Glossary) is an official Department of Education designation applied in accordance with 2 CFR § 3474.10. Prior to 
+making an award, the Department conduct a risk evaluation, described in 2 CFR § 200.206. Specific conditions, described in 2 CFR § 
+200.208, may be applied to a grant in response to a review of risk posed by applicants, failure to comply with the general or specific 
+terms and conditions of a Federal award, failure to meet expected performance goals, and/or when a grant recipient is not otherwise 
+responsible. This designation and any related conditions will be reflected on the Grant Award Notification (GAN). 
+LRC  Program Administration Manual 
+FY 2022-2025 
+Reporting in the IRIS System 
+ 
+9 
+Reporting in the IRIS System 
+LRC grantees must submit interim and annual performance reports using the IRIS electronic reporting 
+system (https://iris.ed.gov). Performance reports help IFLE staff determine whether the grantee is 
+making substantial progress toward meeting the project objectives. 
+Performance report narratives and data should convey compelling information about grant activities 
+and provide evidence of the impact of the grant activities. IFLE advises grantees to put as much care into 
+preparing their IRIS reports as they did when preparing their grant applications for the competition.  
+IRIS includes instructions and screens for grantees to input data and information about their grant 
+activities. In addition to describing the grantee’s achievements for a reporting period, the IRIS 
+information demonstrates how a particular program’s projects respond to the Government Performance 
+and Results Act (GPRA) measures established for that program to assess overall program performance.  
+The Project Director is responsible for reviewing and submitting the performance reports into the web-
+based International Resource Information System (IRIS). If a grantee fails to submit a performance 
+report, the Department will not issue a continuation grant award. 
+Interim, Annual, and Final Performance Reports 
+Grantees are required to submit the following reports during the grant cycle. To view the most up-to-
+date reporting deadlines and the content for each report type, refer to the reporting schedule in IRIS. 
+Two reports each year, except for year 1:  
+• 
+October 15 – fall report (focused on uploading data about projects conducted, publications, 
+outreach activities, “actuals” budget showing expenses from prior year) 
+• 
+April 15 (except in year 4) – spring report (focused on narrative descriptions of project 
+adjustments and how the center is meeting program priorities, proposed budget for next fiscal 
+year) 
+ 
+Dates 
+Interim Data Report Due 
+Annual Performance Report Due 
+Year 1 
+8/15/2022 – 8/14/2023 
+no report 
+4/15/2023 
+Year 2 
+8/15/2023 – 8/14/2024 
+10/15/2023 
+4/15/2024 
+Year 3 
+8/15/2024 – 8/14/2025 
+10/15/2024 
+4/15/2025 
+Year 4 
+8/15/2025 – 8/14/2026 
+10/15/2025 
+No annual performance report  
+due in April of Year 4. 
+FINAL Performance Report and  
+Final Financial Status Report 
+ (SF 425) due 11/14/2026 
+(90 days after end of grant). 
+ 
+LRC  Program Administration Manual 
+FY 2022-2025 
+LRC Administration Essentials 
+ 
+10 
+LRC Administration Essentials 
+This section provides the most essential information about the administration of your LRC grant. 
+Additional information may be found in the appendices. 
+Allowable Activities 
+LRCs must carry out activities to improve the teaching and learning of foreign languages. These activities 
+must include effective dissemination efforts, whenever appropriate, and may include — 
+• 
+The conduct and dissemination of research on new and improved methods for teaching foreign 
+languages, including the use of advanced educational technology; 
+• 
+The development and dissemination of new materials for teaching foreign languages, to reflect 
+the results of research on effective teaching strategies; 
+• 
+The development, application, and dissemination of performance testing that is appropriate for 
+use in an educational setting to be used as a standard and comparable measurement of skill 
+levels in foreign languages; 
+• 
+The training of teachers in the administration and interpretation of foreign language 
+performance tests, the use of effective teaching strategies, and the use of new technologies; 
+• 
+A significant focus on the teaching and learning needs of the less commonly taught languages, 
+including an assessment of the strategic needs of the United States, the determination of ways 
+to meet those needs nationally, and the publication and dissemination of instructional materials 
+in the less commonly taught languages; 
+• 
+The development and dissemination of materials designed to serve as a resource for foreign 
+language teachers at the elementary and secondary school levels; and 
+• 
+The operation of intensive summer language institutes to train advanced foreign language 
+students, to provide professional development, and to improve language instruction through 
+pre-service and in-service language training for teachers. 
+ 
+All LRC budgets should relate to these activities, in addition to addressing: 
+• 
+the absolute priority for activities with a significant focus on the teaching of less commonly 
+taught languages (LCTLs), and  
+• 
+the competitive preference priority for partnerships with Minority-Serving Institutions (MSIs) 
+and community colleges. 
+Open Licensing Expectations 
+Unless an exception applies, you are required to openly license to the public grant deliverables created 
+in whole, or in part, with Department grant funds. See Appendix J – Open Licensing and Citing Support 
+for more details. 
+LRC  Program Administration Manual 
+FY 2022-2025 
+LRC Administration Essentials 
+ 
+11 
+LRC Budgets  
+To conduct the allowable activities described above, LRC budgets follow the ED-524 form categories: 
+• 
+Personnel 
+• 
+Fringe Benefits 
+• 
+Travel 
+• 
+Equipment (may not exceed 15% of the grant amount) 
+• 
+Supplies 
+• 
+Contractual 
+• 
+Other 
+• 
+Indirect Costs (capped at 8%) 
+Examples: The costs of operating and maintaining facilities, equipment, and grounds, as well 
+as depreciation allowances (“facilities costs”); salaries of administrators and services, such 
+as payroll and personnel that benefit Federal programs (“administrative costs”). 
+• 
+Total Direct Costs 
+The revised budget (see Glossary) submitted by a grantee and approved by the program officer 
+represents the official spending plan for implementing LRC project activities.  
+Budget Adjustments (Transferring Money Across Categories) 
+Grantees are allowed to adjust their budget plans without prior approval, as long as the revisions do not 
+materially alter the scope of project activities that the budget supports and as long as the total 
+amount of money transferred is under 10% of the total budget for the grant period. Each LRC was 
+selected to receive FY 2022-2025 funding based on the particular set of activities proposed in the grant 
+application that was read and scored during the competitive peer review process. Budget revisions, 
+therefore, must not significantly alter the scope of those activities and expectations.  
+Consider: If you made this budget adjustment in your original grant application, would your application 
+be materially different? 
+Grantees are allowed to transfer funds between major line items 
+provided that the cumulative transferred amount does not exceed 
+10% of the total budget for that budget period (grant year). 
+Example: If the total grant amount for the fiscal year is $180,000,  
+the cumulative amount transferred between line items  
+during the fiscal year must not exceed $18,000. 
+For transfers exceeding the 10% threshold, grantees must obtain prior 
+written approval from the IFLE program officer. 
+To obtain prior approval, the Project Director should submit a brief written justification to the IFLE 
+program officer explaining why the budget transfer is needed to conduct the project. The justification 
+LRC  Program Administration Manual 
+FY 2022-2025 
+LRC Administration Essentials 
+ 
+12 
+should describe how the transfer is allowable, allocable, and reasonable in meeting the objectives of the 
+approved plan, and make clear that it does not materially alter the project’s overall scope. It is the 
+grantee’s responsibility to ensure that the cumulative transferred amount does not exceed the 10% 
+threshold in each budget period. 
+Note: Program officers are allowed up to 30 days to respond (e.g., approve, disapprove, request 
+more information). Although a 30-day timeframe is allowed, program officers usually review 
+requests sooner. 
+Financial Management and Drawdowns 
+Grantees must follow the federal requirements for financial management and cash drawdowns in 2 CFR 
+§ 200.302. See Appendix D for detailed information. 
+Carrying Over Unobligated Balances 
+Grantees are permitted to carry forward unobligated LRC balances to subsequent funding periods 
+without obtaining prior approval from ED.2 IFLE recommends discussing your carryover amount with 
+your IFLE program officer. Grantees are required to report on carryovers in the IRIS annual report. 
+No-Cost Extension (Time Extension) 
+Grantees may request a one-time no-cost extension (NCE) of up to 12 months before the award’s 
+expiration date. The grantee must submit a written request – including supporting reasons and revised 
+expiration date – to the program officer at least 10 days before the original end date of the award. This 
+one-time extension may not be applied merely for the purpose of using unobligated balances. 
+The NCE request must include the following: 
+• 
+PR/Award number; 
+• 
+Description of activities to be conducted during the extension period; 
+• 
+Explanation(s) for the inability to complete activities during the original performance period; 
+• 
+Funds to be used during the extension period; 
+• 
+Proposed new end date for the grant. 
+If approved, the end date on the grant will be updated in IRIS and G5, and a revised Grant Award 
+Notification will be issued by G5 reflecting the new project end date. 
+ 
+2 Title 2 CFR § 200 of the OMB “Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards” 
+waives the prior approval procedures for carryover. 
+LRC  Program Administration Manual 
+FY 2022-2025 
+LRC Administration Essentials 
+ 
+13 
+Change of LRC Project Director 
+The Project Director (see Glossary) plays an important role in grant administration. The Project Director 
+identified in the GAN must be the individual currently assigned to oversee the grant project. 
+You must notify IFLE when the Project Director changes permanently or the Project Director is 
+temporarily replaced by another individual during an extended absence (such as during a sabbatical or 
+health emergency), so a program officer can perform the necessary steps to vet the new Project Director 
+according to ED’s practices, register this change in G5 and IRIS, and issue a new GAN. This process is not 
+complete until the new Project Director receives an electronic copy of the new GAN, which will be 
+accessible in G5. Program officers may interpret the inability to contact a Project Director, frequent 
+changes of Project Director or the nomination an ineligible individual as a new Project Director for a 
+grant as potential evidence of increased risk for that grant. 
+To request a change of Project Director, email your program officer with a brief explanation and a copy 
+of the CV for the new Project Director. If this message is sent by someone other than the current 
+(outgoing) Project Director, the current Project Director and/or the Authorized Representative listed on 
+the GAN must be copied on the message. 
+Adding and Updating LRC Grant Personnel in IRIS 
+The Project Director is responsible for periodically updating all personnel listed for the grant in IRIS. IFLE 
+recommends that Project Director and their colleagues review the listed personnel at least once a year. 
+Program officers use this information to contact grant personnel for matters related to grant oversight 
+and administration. Contact the IRIS Help Desk for detailed guidance on adding or updating personnel. 
+Travel Costs and Approvals 
+Allowable Costs for Travel 
+Federal funds can be used to pay for airfare, hotels, meals, and incidentals for faculty and staff 
+members’ travel related to approved LRC activities and faculty professional development. Examples of 
+the purposes of travel may include: 
+• 
+library acquisitions, 
+• 
+establishing institutional linkages, 
+• 
+course development and research, 
+• 
+presentations at conferences that are directly related to the center’s area of expertise, 
+• 
+professional development. 
+LRC funds can cover the travel expenses of persons other than the institution’s faculty and staff as long 
+as the travel is directly related to an LRC budget activity and the scope of the grant. LRC funds cannot be 
+used to support student travel. 
+LRC  Program Administration Manual 
+FY 2022-2025 
+LRC Administration Essentials 
+ 
+14 
+General Travel Guidance 
+• 
+Domestic travel within the scope of approved LRC activities does not require approval by the 
+IFLE program officer. Expenses cannot exceed allowable rates set by the grantee institution or 
+the General Services Administration (GSA)3. 
+• 
+All international travel expenses covered with LRC funds must be pre-approved by the IFLE 
+program officer by submitting a Travel Approval Request (TAR) in IRIS at least 30 days prior to 
+planned travel. Per diem expenses cannot exceed the foreign per diem rate set by the 
+Department of State, and all flights purchased with federal funds must comply with the Fly 
+America Act or an Open Skies Agreement. 
+• 
+No travel may occur after the end date of the grant. 
+See page 16 for more detailed information about travel and completing a TAR. 
+ 
+ 
+ 
+3 U.S. territories are covered by the per diem rates set by the Department of Defense. 
+LRC  Program Administration Manual 
+FY 2022-2025 
+LRC Travel Guidance 
+ 
+15 
+LRC Travel Guidance 
+Travel Costs and Approvals 
+Federal funds can be used to pay for airfare, hotels, meals, and incidentals for travel related to approved 
+grant activities. Grantees must request any required pre-approvals by submitting a Travel Approval 
+Request (TAR) in IRIS. 
+International Travel 
+All international travel expenses covered with grant funds must be pre-approved by the IFLE program 
+officer.  
+IFLE does not approve retroactive travel. Flights covered by federal funds must comply with the Fly 
+America Act or an Open Skies Agreement (see Appendix G – Fly America and Open Skies). Even if federal 
+funds are only paying for the international hotel, the request must be pre-approved. Rates for hotels, 
+meals, and incidentals cannot exceed the foreign per diem rate set by the Department of State. 
+Expenses exceeding the Department of State rates must be paid for by other sources. 
+LRC funds may cover visas, the costs of vaccinations, and travel health insurance as required for the 
+health and safety of the traveler. 
+Domestic Travel 
+Domestic travel within the scope of approved LRC activities does not require approval by the IFLE 
+program officer. 
+Travel expenses for hotels, meals, and incidentals in the 50 U.S. states should not exceed the per diem 
+rate set by the institution or the General Services Administration (GSA).4 The pre-tax hotel rate should 
+be equal to or less than the GSA rate, and the allowance for meals and incidentals should not exceed the 
+GSA rate. Any expenses exceeding GSA rates should be paid for by other sources. 
+Car Travel 
+If travel occurs by car, the reimbursement should not exceed the privately-owned vehicle rate 
+established by GSA. 
+Travel after the End of the Grant Period 
+According to 34 CFR § 75.707, funds required for travel are obligated at the time when travel is taken, 
+not at the time that the fare is purchased. As a result, the return date for travel cannot be after the end 
+ 
+4 U.S. territories are covered by the per diem rates set by the Department of Defense. 
+LRC  Program Administration Manual 
+FY 2022-2025 
+LRC Travel Guidance 
+ 
+16 
+date of the four-year duration of the grant’s performance period. A return date after this date is 
+allowable only if a no-cost extension has been granted. 
+Travel Approval Requests (TARs) 
+An approved Travel Approval Request (TAR) is required for international travel supported by LRC grants. 
+Requests to spend federal funds on LRC travel must be submitted in IRIS at least 30 days before the 
+date of travel and approved prior to making any non-refundable purchases or beginning travel. Program 
+officers need this time to review the TAR, consult with federal partners, address travel warnings and 
+other safety concerns, and return disapproved TARs for revision.  
+IFLE does not make retroactive approvals. Grantees should not purchase tickets before receiving 
+approval, but travelers may make tentative, non-binding reservations. Non-refundable purchases are 
+not an acceptable justification for approving unallowable travel expenses. 
+A complete TAR includes: 
+• 
+A description of the trip’s purpose, including the trip’s connection to approved grant activities. 
+• 
+A certification from the grantee that the travel is compliant with the Fly America Act or an Open 
+Skies Agreement. Grantees are responsible for verifying that travel is compliant.  
+• 
+An itemization of costs under “explanation of expenditures” that reflects appropriate allowable 
+rates, such as GSA per diem or State Department foreign per diem rates. Grantees should break 
+out expenses by category, including itemizing lodging expenses separately from expenses for 
+meals and incidentals. Example:  
+Roundtrip Airfare: Miami-São Paolo = $978 
+Airport transfers: $200 
+Hotel in São Paulo – $282/night x 2 nights = $564 
+Meals/incidentals in São Paulo – $126/day x 2 days = $252 
+• 
+If the flight qualifies under an Open Skies Agreement or other exception, the submitter should 
+include an explanation in the comments section of how the flight meets the exception. 
+Note: Due to security concerns, we do not allow travel to certain parts of the world using Title VI 
+funding. Because security situations are often fluid, it is not possible for us to generate a stable list of 
+countries to which we do not allow travel. IFLE program officers closely monitor the security situations 
+throughout the world and decide together, with reference to the State Department’s travel advisory 
+pages, where travel will be allowed and where it will not. Contact your program officer if you have any 
+doubts or questions about the possibility of travel to certain countries and keep in mind that travel 
+approvals may be revoked if security situations change. 
+LRC  Program Administration Manual 
+FY 2022-2025 
+CHEAT SHEETS 
+ 
+17 
+CHEAT SHEETS 
+LRC  Program Administration Manual 
+FY 2022-2025 
+Cheat Sheet – LRC Grant Administration 
+ 
+18 
+Cheat Sheet – LRC Grant Administration  
+• 
+Financial management and drawdowns: Grantees must follow the federal requirements for 
+financial management and cash drawdowns in 2 CFR § 200.302. See page 30 for more information.  
+• 
+Budget adjustments: Grantees can adjust their budget plans without prior approval, as long as: 
+o the revisions do not materially alter the scope of project activities, AND 
+o the amount transferred between categories does not exceed 10% of the total budget for 
+that budget period.  
+Example: Total FY budget is $180,000. Cumulative amount transferred during the 
+FY may not exceed $18,000 without prior approval. 
+For transfers exceeding the 10% threshold, grantees must obtain prior written approval from the 
+IFLE program officer. 
+When you have a substantial change to a project activity or to your overall budget, please send a 
+revised budget to your IFLE program officer for official approval. 
+• 
+Travel: LRC funds may be used to cover travel expenses related to approved LRC activities. 
+o Domestic travel (within the United States) does not require prior approval. 
+o International travel requires prior grantee submission and IFLE program officer approval of a 
+Travel Approval Request (TAR) in IRIS. 
+- 
+International flights covered by LRC funds must comply with Fly America/Open Skies. 
+- 
+All costs must be itemized in the “comments” section using allowable rates. 
+o Allowable rates: Lodging and meals/incidentals expenses covered by LRC funds must comply 
+with the allowable rates set by the relevant U.S. government authority: 
+- 
+U.S. states: General Services Administration (GSA) per diem rates 
+- 
+U.S. territories: Department of Defense per diem rates 
+- 
+International: Department of State per diem rates 
+• 
+Carryover: Grantees may carry forward unobligated LRC balances to subsequent funding periods 
+within the grant cycle without obtaining prior approval from ED. 
+o IFLE still recommends discussing your carryover amount with the IFLE program officer.  
+o Grantees are required to report on carryover in the IRIS annual report. 
+• 
+Time extension: Grantees may request a one-time no-cost extension (NCE) of up to 12 months after 
+the award’s original expiration date. The grantee must submit a written request to the IFLE program 
+officer at least 10 days before the original end date of the award. IFLE encourages grantees to 
+submit requests earlier than this if possible. 
+LRC  Program Administration Manual 
+FY 2022-2025 
+Cheat Sheet – Fly America Act and Open Skies 
+ 
+19 
+Cheat Sheet – Fly America Act and Open Skies 
+In short, the Fly America Act means that if federal funds pay for air travel, the traveler must use a U.S. 
+air carrier whenever possible, to the greatest extent possible. Cost and convenience are not allowable 
+exceptions. There are some exceptions to the rule based on Open Skies partnerships and extremely 
+inconvenient circumstances; those are further explained in Appendix G – Fly America and Open Skies.  
+The following is an Open Skies cheat sheet to help you quickly determine when you may be eligible to 
+use a European Union, Japanese, or Swiss air carrier. For more detailed information, visit the appendix. 
+ 
+LRC  Program Administration Manual 
+FY 2022-2025 
+APPENDICES 
+ 
+20 
+APPENDICES 
+LRC  Program Administration Manual 
+FY 2022-2025 
+Appendix A – Glossary of Selected Grant Terms 
+ 
+21 
+Appendix A – Glossary of Selected Grant Terms 
+A list of commonly used terms and acronyms in the administration of discretionary grants, including 
+grants under the Language Resource Centers Program, is below. 
+• 
+Administrative action: A post-award administrative request by a grantee to modify the terms 
+and conditions of the original grant. An administrative action can be monetary or non-monetary 
+and may require prior approval from the U.S. Department of Education (“the Department”). 
+• 
+Administrative regulations: Regulations that implement 1) guidance in 2 Code of Federal 
+Regulations (CFR) Part 200 of the OMB “Uniform Administrative Requirements, Cost Principles, 
+and Audit Requirements for Federal Awards,” which apply to the administration of all federal 
+grants and cooperative agreements; 2) presidential executive orders (if regulation is necessary); 
+3) legislation affecting all applicants for or recipients of federal grants and cooperative 
+agreements; and 4) the Department’s specific requirements for the award and management of 
+grants. 
+• 
+Allocable cost: Cost that can be traced to specific activities of a grant project. 
+• 
+Allowable costs: A cost incurred by a grantee that is necessary and reasonable for the 
+performance of the award; in conformance with any limitations or exclusions set forth in the 
+Federal cost principles applicable to the organization incurring the cost or in the Grant Award 
+Notification as to types or amount of cost items; consistent with the grantee’s policies and 
+procedures that apply uniformly to both Federally financed and other activities of the grant; 
+determined in according with generally-accepted accounting principles; and not included as a 
+cost in any other Federally financed grant (unless specifically authorized by statute). Allowable 
+cost requirements for Department of Education grants can be found in the Uniform Guidance (2 
+CFR § 200), federal accounting standards, and other authoritative sources. 
+• 
+Appropriations statute (legislation): A statute (legislation) passed by Congress to make funds 
+available for the purposes specified in the statute (such as grant programs). 
+• 
+Approval (or authorization): The documentation showing ED’s express written consent for a 
+grantee to incur a specific cost or take an action if the cost or action requires prior approval. 
+Grantees should preserve this documentation throughout the lifecycle of a grant. 
+• 
+Approved budget: The budget submitted by the grantee and any revisions for which approval is 
+necessary by the program office and which have been approved. The approved budget includes 
+cost items for Federal funds and may include cost items for non-Federal funds, if cost sharing is 
+required or volunteered (34 CFR § 75.232). Also see Revised Budget. 
+• 
+Assistance Listing Number (ALN) [formerly CFDA number]: The identifying number for a federal 
+financial assistance program. Each ALN has a two-digit prefix to identify the federal agency that 
+administers the program (84 is the prefix for the Department), followed by a three-digit code 
+unique to the authorized program (e.g., 84.229A Language Resource Centers Program). ED 
+programs begin with 84. 
+LRC  Program Administration Manual 
+FY 2022-2025 
+Appendix A – Glossary of Selected Grant Terms 
+ 
+22 
+• 
+Assurances: A list of requirements found in different Federal laws, regulations, and executive 
+orders that apply to grants, and to which applicants must agree in writing to observe as a 
+condition of receiving Federal assistance (2 CFR § 200.208). 
+• 
+Audit finding: A conclusion about a monetary or non-monetary matter related to an auditor’s 
+examination of a grantee’s organization, program, activity, or function. Audit findings frequently 
+identify problems with an organization’s grant expenditures and/or compliance with other grant 
+requirements and provide recommendations for corrective action in order to prevent their 
+recurrence. 
+• 
+Authorized representative: The individual entrusted by the applicant/grantee organization to 
+sign the application and the applicable assurances and certifications on behalf of the 
+organization. The governing body’s authorization for this entrusted individual to sign an 
+application as official representative must be on file in the applicant’s office. 
+• 
+Authorizing statute (legislation): A statute (legislation) passed by Congress that establishes or 
+continues, in the case of reauthorization, an activity such as a grant program either indefinitely 
+or for a specified period of time. An authorizing statute is generally a prerequisite for 
+appropriations. 
+• 
+Budget period: An interval of time into which a project period is divided for budgetary purposes, 
+usually 12 months (34 CFR § 77.1(c)). 
+• 
+Budget revision: A modification to a grantee’s budget. A grantee is allowed to revise its budget 
+by moving funds from one budget category to another without obtaining prior approval, 
+provided that the reallocated amount does not exceed 10% of the total direct costs of the grant.  
+• 
+Carry over: Unexpended funds from one budget period used in a subsequent budget period. 
+Funds in a grantee’s G5 account are disbursed on a “first-in/first-out” basis; therefore, carry-
+over funds from year one of the project period are unlikely to be available for use in year three. 
+• 
+CFDA number: See Assistance Listings Number (ALN). 
+• 
+Closeout: The process by which ED determines that all applicable administrative actions and all 
+required work of a grant have been completed. ED also reconciles and/or makes any final fiscal 
+adjustments to a grantee’s account in G5 (see 2 CFR § 200.344). The grantee is required to 
+submit all financial, performance, and other reports as required by the terms and conditions of 
+the grant no later than 90 calendar days after the end date of the performance period.  
+• 
+Code of Federal Regulations (CFR): Compilation of all final regulations issued by Federal 
+agencies and published annually by the National Archives and Records Administration (NARA), 
+divided into numbered “titles.” Title 2 contains the Uniform Administrative Requirements, Cost 
+Principles, and Audit Requirements and Title 34 contains the applicable regulations of ED. An 
+online version is available for consultation at the Electronic Code of Federal Regulations (eCFR). 
+• 
+Cost Principles (Federal Cost Principles): The principles as set out by the Office of Management 
+and Budget (OMB) for generally accepted accounting rules used to determine whether costs 
+applicable to grants, contracts and other agreements are allowable, reasonable, and allocable. 
+The Federal cost principles are found in 2 CFR § 200 Subpart E. 
+• 
+Continuation award (non-competing): A grant made to a recipient following the first budget 
+period of a multi-year project, which extends the funding for another budget period within the 
+LRC  Program Administration Manual 
+FY 2022-2025 
+Appendix A – Glossary of Selected Grant Terms 
+ 
+23 
+approved project period, contingent upon the grantee’s submission of required reports, 
+substantial progress, and a determination that continuation funding is in the best interest of the 
+Federal government.  
+• 
+Direct costs: Costs in a grant project that are identified specifically as part of a particular activity 
+or cost objective. Examples of direct costs include compensation of employees for time devoted 
+to the performance of grant activities; cost of materials acquired, consumed, or expended 
+specifically for the purpose of the grant; and travel expenses incurred specifically to carry out 
+the activities of the project. 
+• 
+ED: The acronym for the U.S. Department of Education (not DOE). 
+• 
+Education Department General Administrative Regulations (EDGAR): Administrative 
+regulations governing ED’s grant programs found in parts 75, 76, 77, 79, 81, 82, 84, 86, 97, 98 
+and 99 of Title 34 of the Code of Federal Regulations (CFR) (defined above), as described here: 
+Education Department General Administrative Regulations (EDGAR). 
+• 
+Excessive drawdown: An excessive drawdown occurs when a grantee makes a drawdown in 
+excess of its immediate cash needs. The Department’s Office of the Chief Financial Officer and 
+IFLE program officers monitor grantee accounts in G5 to determine instances of excessive 
+drawdowns using the following thresholds: 
+o First quarter: more than 50 percent of the funds for the budget period have been drawn 
+down by the end of this quarter; 
+o Second quarter: more than 80 percent of the funds for the budget period have been 
+drawn down by the end of this quarter; 
+o Third quarter: 100 percent of the funds for the budget period have been drawn down by 
+the end of this quarter. The program officer will contact the grantee immediately after 
+the excessive drawdown is identified to inquire about the excessive drawdown and will 
+allow the grantee fourteen days to resolve the issue. The program officer will notate the 
+resolution of the excessive drawdown in G5 and will include all documentation in the 
+grant official file. 
+o If a grantee’s account is flagged for an excessive drawdown, your program officer will 
+contact you to request a written explanation as to why the excessive drawdown 
+occurred and how the issues that caused it to have been resolved. 
+• 
+Federal Financial Report (SF-425): A standard form used to obtain financial information from 
+grantees. ED grantees are required to submit this form if reporting program income, cost 
+sharing or matching, or when required by program statute or regulation or a specific condition 
+of their grant. Usually required at the end of the project period along with a final performance 
+report.  
+• 
+Funding priorities: A means of focusing a competition on the areas in which the Secretary is 
+particularly interested in receiving applications. Generally, priorities take the form of specific 
+kinds of activities that applicants are asked to include in an application. There are absolute 
+priorities, which the applicant must address in order to be considered for funding; competitive 
+preference priorities, which the applicant has the option of choosing whether or not to address 
+and for which they may receive additional points; and, invitational priorities, which the applicant 
+LRC  Program Administration Manual 
+FY 2022-2025 
+Appendix A – Glossary of Selected Grant Terms 
+ 
+24 
+is encouraged but not required to address. Applications addressing invitational priorities receive 
+no preference over applications that do not meet the priority (34 CFR § 75.105). 
+• 
+Government Performance and Results Act (GPRA) of 1993: GPRA is a public law that was 
+passed by Congress in 1993, revised by the Government Performance and Results 
+Modernization Act of 2010 (GPRA) was enacted to improve stewardship in the Federal 
+Government and to link resources and management decisions with program performance. GPRA 
+requires that all federal departments (not grantees) do the following: 
+o develop a strategic plan specifying what they will accomplish over a 3- to 5-year period; 
+o set performance targets related to their strategic plan on an annual basis; 
+o report annually the degree to which the targets set in the previous year were met; 
+o conduct regular evaluations of their programs and use the results to explain their 
+successes and failures based on the performance monitoring. 
+• 
+Grant Award Notification (GAN): The official document signed by a license holder 
+stating the amount and conditions of an award for a discretionary grant or cooperative 
+agreement (34 CFR § 75.235). 
+Grantee: The legal entity to which a grant is awarded and that is accountable to the Federal 
+government for the use of the funds provided. The grantee is the entire legal entity even if only 
+a particular component of the entity is designated in the Grant Award Notification (GAN). See 34 
+CFR § 77.1(c). 
+• 
+Grant management system (G5, G5.gov): A financial subsystem that is part of the Education 
+Department Central Automated Processing System (EDCAPS). G5 provides online capabilities for 
+grantees to request payments, obtain their most current payment information, access their GAN 
+documents, request administrative changes to their grants, and file electronic reports. It is also 
+the system through which ED staff manage aspects of the pre-award, award, post-award, 
+closeout, and payments stages of the grants process. Also see International Resource 
+Information System (IRIS). 
+• 
+High risk: A term used to describe the act of imposing specific high-risk conditions on a grant or 
+grantee whose risk of failure is determined to be high, based on a history of poor performance 
+or poor business practices, financial instability, or lack of a management system meeting the 
+required financial management standards (for specific conditions see 2 CFR § 200.208; for ED’s 
+authority to designate a grantee as high risk, see 2 CFR § 3474.10). 
+• 
+Indirect costs: Costs an organization incurs for common or joint objectives that cannot be 
+readily and specifically identified as part of a specific grant project or other institutional activity 
+(see 34 CFR § 75.560 and 76.560). 
+• 
+Indirect cost rate: A percentage established by a federal agency for a grantee organization, 
+which the grantee uses to compute the amount of grant funding (in dollars) that it uses to 
+reimburse itself for the indirect costs of a grant project.  
+• 
+Indirect cost rate agreement: A formalized written and signed agreement between a recipient 
+and the cognizant federal agency that specifies the treatment of indirect costs. The agreement 
+includes the approved rate(s), applicable fiscal year, and specific treatment of certain items. The 
+rates and cost treatment laid out in the agreement are accepted and used by all federal agencies 
+LRC  Program Administration Manual 
+FY 2022-2025 
+Appendix A – Glossary of Selected Grant Terms 
+ 
+25 
+unless prohibited or limited by statute. Indirect cost reimbursement is limited to the grantee’s 
+actual indirect costs, as determined in its indirect cost rate agreement, or eight percent of a 
+modified total direct cost base, whichever amount is less (34 CFR § 75.562(c)(3)-(4) and 2 CFR § 
+200.414). 
+• 
+Indirect cost type: The program indirect cost type identifies the type of indirect cost permitted 
+under the program (Restricted, Unrestricted, or Training). 
+• 
+International Resource Information System (IRIS): The web-based database and reporting 
+system specifically designed for the International and Foreign Language Education (IFLE) office 
+Fulbright-Hays and Title VI discretionary grant programs. IRIS is a password-protected reporting 
+system that captures and reports annual and final performance reports from IFLE grantees. IRIS 
+also contains publicly accessible current and historical information about the programs 
+administered by IFLE. Also see Grant Management System. 
+• 
+Monitoring: Monitoring is the regular and systematic assessment of 1) how well a grant is being 
+implemented and achieving outcomes, 2) the degree to which it is meeting established 
+measures, and 3) whether it is complying with statutory requirements, program regulations, 
+polices and fiscal requirements. 
+• 
+Monitoring and Technical Assistance Plan: A plan that provides standards and serves as a guide 
+for monitoring and for providing technical assistance for each grant program. The plans are 
+maintained within the IFLE office. 
+• 
+Office of Management and Budget (OMB): A branch of the Executive Office of the President. 
+OMB oversees and coordinates the administration’s procurement, financial management, 
+information collection, and regulatory policies, including grant policies and procedures. 
+• 
+OMB circulars: Administrative policy documents issued by OMB that provide guidance on grant 
+administration. Many OMB circulars were revised in 2014 and codified in Title 2, Part 200 of the 
+Code of Federal Regulations. (2 CFR § 200, the “Uniform Administrative Requirements, Cost 
+Principles, and Audit Requirements for Federal Awards”). 
+• 
+Open licensing requirement: The expectations for openly licensing most grant deliverables, as 
+explained in 2 CFR § 3474.20. 
+• 
+Performance measure: A quantitative indicator, statistic, or metric used to gauge program or 
+project performance and used as a unit for measuring outcomes. 
+• 
+Performance report: A report of the specific activities conducted by the grantee during the 
+budget or project period. 
+• 
+Performance target: A level of performance that a grantee seeks to meet during a project or as 
+a result of a project. 
+• 
+Program regulations: Regulations that implement legislation authorizing a specific grant 
+program. Program regulations generally include applicant and participant eligibility criteria, 
+allowable activities, and program selection criteria.  
+• 
+PR/Award number: The identifying number for a discretionary grant. It includes the program 
+identifier, the fiscal year for the competition, and the number assigned to the project, e.g., 
+P229A220018, means a Language Resource Centers program grant awarded in fiscal year 2022 
+with grant number 18. 
+LRC  Program Administration Manual 
+FY 2022-2025 
+Appendix A – Glossary of Selected Grant Terms 
+ 
+26 
+• 
+Project director (PD): An individual designated by the grantee to direct the project or program 
+being supported by a grant. The PD is responsible and accountable to officials of the grantee 
+organization for the successful outcome of the project, program or activity. The PD is commonly 
+identified as the Principal Investigator (PI) by some grantees. 
+• 
+Project materials: A copyrightable work developed with funds from a grant issued by the 
+Department. (34 CFR § 75.622). These materials must include required statements as described 
+in 34 CFR § 75.620. 
+• 
+Project period (performance period): The period established in the award document during 
+which Federal sponsorship begins and ends (see 34 CFR § 77.1(c) and “Period of Performance” 2 
+CFR § 200.77). During this period, the Department will fund a grant project and authorize a 
+grantee to conduct the approved work of the project as described in the application. When the 
+Department awards a multi-year grant, it usually obligates funds for the first budget period, and 
+explains that funds for the subsequent budget periods are contingent upon certain conditions 
+such as available funds and the grantee’s progress towards meeting the project’s objectives. 
+• 
+Reasonable cost: A cost is reasonable if, in its nature or amount, it does not exceed that which 
+would be incurred by a prudent person under the circumstances prevailing at the time the 
+decision was made to incur the cost (see the Federal cost principles in 2 CFR § 200 Subpart E). 
+• 
+Revised budget: The selected applicant’s budget plan that incorporates any budgetary changes 
+and/or cost items that have been reduced or deleted during the Department’s budget review 
+and negotiation before the initial Grant Award Notification is issued. Also see Approved Budget. 
+• 
+Risk: A measure of the potential inability to achieve overall program objectives within defined 
+requirements related to cost, schedule, legislative authority, and grant management practice. 
+• 
+Substantial progress: A level of achievement that a grantee must make towards meetings its 
+project goals, objectives and performance measures, if applicable in its project during a budget 
+period, so the grantee can receive a continuation award (see 34 CFR § 75.253). The annual 
+performance reports should reflect evidence that the grantees’ activities are consistent with the 
+plans and objectives to which the Department and the grantee have agreed. 
+• 
+Supplies: All tangible personal property other than those described as Equipment, which 
+generally refers to tangible personal property (including information technology systems) having 
+a useful life of more than one year and a per-unit acquisition cost which equals or exceeds the 
+lesser of the capitalization level established by the non-Federal entity (grantee institutions) for 
+financial statement purposes, or $5,000. (2 CFR § 200.201, 200.313, and 200.314). 
+• 
+Time extensions (no-cost time extension, no-cost extension, NCE): An extension of time to the 
+last or only budget period of a project to complete the work of the grant during that period, 
+without the obligation of additional funds by the Federal government (see 2 CFR § 200.308 and 
+34 CFR § 75.261). Time extensions for these programs occur at the end of the 48-month project 
+period. It allows the grantee additional time beyond the approved project end date (i.e., beyond 
+August 14, 2026) to complete the approved project activities. A grantee may use grant funds 
+during the time extension for activities that could not be conducted by the project end date. 
+Time extension funds must not be used to conduct entirely new activities. 
+LRC  Program Administration Manual 
+FY 2022-2025 
+Appendix A – Glossary of Selected Grant Terms 
+ 
+27 
+• 
+Travel costs: The Uniform Guidance defines “travel costs” as the expenses for transportation, 
+lodging, subsistence, and related items incurred by employees who are in travel status on 
+official business.  
+• 
+Uniform Administrative Regulations (“Uniform Guidance”): Regulations and requirements 
+codified at 2 CFR § Part 200, “Uniform Administrative Requirements, Cost Principles, and Audit 
+Requirements for Federal Awards”. Also referred to as “Uniform Guidance,” it includes certain 
+regulations formerly covered by the Education Department General Administrative Regulations 
+(EDGAR, addressed above), parts 74 and 80, and supersedes and streamlines requirements from 
+OMB Circulars A-21, A-87, A-110, A-122, A-89, A-102, and A-133, and the guidance in Circular A-
+50 on Single Audit follow-up. More information is available here: Uniform Administrative 
+Requirements, Cost Principles, and Audit Requirements for Federal Awards | U.S. Department of 
+Education. 
+• 
+Unique Entity Identifier (UEI): A number used to identify a specific commercial, nonprofit, or 
+Government entity. The UEI is used within SAM.gov as a primary key to uniquely identify an 
+entity or part of an entity. The UEI replaces the DUNS number. 
+LRC  Program Administration Manual 
+FY 2022-2025 
+Appendix B – International Education General Provisions Definitions 
+ 
+28 
+Appendix B – International Education General 
+Provisions Definitions 
+The following definitions are found in 34 CFR § 655.4 and § 669.5 and are applicable to the Language 
+Resource Centers Program: 
+• 
+Consortium of institutions of higher education means a group of institutions of higher 
+education that have entered into a cooperative arrangement for the purpose of carrying out a 
+common objective, or a public or private nonprofit agency, organization, or institution 
+designated or created by a group of institutions of higher education for the purpose of carrying 
+out a common objective on their behalf. 
+• 
+Institution of higher education means, in addition to an institution that meets the definition of 
+section 101(a) of the Higher Education Act of 1965, as amended, an institution that meets the 
+requirements of section 101(a) except that (1) it is not located in the United States, and (2) it 
+applies for assistance under title VI of the Higher Education Act of 1965, as amended, in 
+consortia with institutions that meet the definitions in section 101(a). 
+• 
+Language Resource Center means a coordinated concentration of educational research and 
+training resources for improving the nation's capacity to teach and learn foreign languages. 
+LRC  Program Administration Manual 
+FY 2022-2025 
+Appendix C – Government Performance and Results Measures 
+ 
+29 
+Appendix C – Government Performance and Results 
+Measures 
+GPRA Measures 
+The Government Performance and Results Act (GPRA) of 1993, revised by the Government Performance 
+and Results Modernization Act of 2010, was enacted to improve stewardship in the Federal Government 
+and to link resources and management decisions with program performance. 
+The Department is required by GPRA to submit data on grantee performance to the Office of 
+Management and Budget. The information provided by grantees in their performance reports submitted 
+via the IRIS reporting system will be the source of data for reporting on the GPRA measures. The 
+Department has developed (and the Office of Management and Budget has approved) the following 
+GPRA measures to evaluate the overall success of the LRC grant program: 
+1. Percentage of LRC products or activities judged to be successful by LRC customers with respect 
+to quality, usefulness and relevance. 
+2. Percentage of LRC products judged to be successful by an independent expert review panel with 
+respect to quality, usefulness and relevance. 
+3. Efficiency: Cost per LRC project that increased the number of training programs for K-16 
+instructors of LCTLs. 
+Note: IFLE will be able to calculate the Efficiency Measure based on the LRC reports submitted in IRIS.  
+LRC  Program Administration Manual 
+FY 2022-2025 
+Appendix D – Financial Management and Drawdowns 
+ 
+30 
+Appendix D – Financial Management and Drawdowns 
+Grantees must follow the federal requirements for financial management and cash drawdowns in 2 CFR 
+§ 200.302. Every evening, G5 compares drawdown activity against preset thresholds and identifies 
+grants that have atypical drawdown patterns (i.e., excessive or insufficient drawdowns). G5 also 
+identifies route payment, reimbursement, and stop payment flags; program staff review and address 
+these with grantees as appropriate. 
+LRCs must: 
+• 
+Draw down only as much cash as is necessary to meet the immediate needs of the grant project; 
+• 
+Keep to a minimum the time between drawing down the funds and paying them out for grant 
+activities; and 
+• 
+Return/reimburse the Government for all interest earned on grant funds deposited in interest-
+bearing bank accounts. 
+• 
+Spend down as much awarded grant funding as possible (following approved project proposal 
+and budget) to minimize the amount to be returned to the Treasury at the end of the grant. 
+Staff are advised to: 
+• 
+Coordinate the timing of drawdowns with prior internal clearances (e.g., by boards, directors, or 
+other officials) for immediate cash needs so that funds do not stay in a bank account for 
+extended periods of time while waiting for approvals; 
+• 
+Continuously monitor fiscal activity (grant drawdowns and payments) on a continuous basis; 
+• 
+Plan carefully for cash flow during the budget period and review cash requirements before each 
+drawdown; and 
+• 
+Pay for project activities as soon as practical after receiving cash from the Department. 
+The Department will contact a grantee who has drawn down: 
+• 
+50% or more of the grant in the first quarter; 
+• 
+80% or more in the second quarter; and/or  
+• 
+100% of the cash in the third quarter of the budget period. 
+Note: Amounts under these thresholds could still represent excessive drawdowns for particular 
+grant activities in any quarter. Grantees who draw down excessive cash will be required to 
+return excess funds to the Department, along with any associated earned interest, until the 
+money is needed to pay for activities. 
+If you need assistance with returning funds and interest, please contact the Department's G5 Hotline by 
+calling 1-888-336-8930.  
+Grantees who do not follow federal cash management requirements and/or who consistently appear on 
+the Department's reports of excessive drawdowns could be: 
+• 
+subject to specific award conditions or designated as "high-risk" (see Glossary) grantees, which 
+could mean being placed on a "cash-reimbursement" payment method (i.e., a grantee would 
+LRC  Program Administration Manual 
+FY 2022-2025 
+Appendix D – Financial Management and Drawdowns 
+ 
+31 
+have to pay for grant activities with its own money and then wait for reimbursement from the 
+Department afterwards); 
+• 
+subject to further corrective action; 
+• 
+denied selection for funding on future Department of Education grant applications (34 CFR § 
+75.217(d)(3)(ii)); and/or 
+• 
+debarred or suspended from receiving future federal awards from any executive agency of the 
+Federal Government. 
+All project directors, staff, and authorized representatives are urged to read 2 CFR § Part 200.305 to 
+learn more about federal requirements related to grant payments and to determine how to apply these 
+requirements to any sub-grantees. Grantees are urged to make copies of this guidance and share it with 
+all affected individuals within the organization. 
+LRC  Program Administration Manual 
+FY 2022-2025 
+Appendix E – Legislation and Regulation Resources 
+ 
+32 
+Appendix E – Legislation and Regulation Resources  
+Program Legislation: Title VI, Part A, Sections 601 and 603 of the Higher Education Act of 1965, as 
+amended 
+International Education Programs General Provisions: 34 CFR § 655 
+LRC Regulations: 34 CFR § 669 
+20 U.S.C. Section 1123 
+20 U.S.C. Sections 1132-1137 
+Education Department General Administrative Regulations (EDGAR) 
+Uniform Guidance (2 CFR § 200) 
+ 
+ 
+LRC  Program Administration Manual 
+FY 2022-2025 
+Appendix F – LRC Official Program Citations 
+ 
+33 
+Appendix F – LRC Official Program Citations 
+The Language Resource Centers Program makes awards for the purpose of establishing, strengthening, 
+and operating centers that serve as resources for improving the nation's capacity for teaching and 
+learning foreign languages effectively. 
+Notice Inviting Applications 
+Federal Register: Fiscal Year 2022 Applications for New Awards; Language Resource Centers Program 
+This notice contains general information that remains relevant throughout the grant cycle, including a 
+list of applicable regulations and award administration information. 
+Grant Priorities 
+Implementation of Priorities  
+• 
+All grantees must meet the absolute priority for activities with a significant focus on the 
+teaching and learning of less commonly taught languages (any language other than French, 
+German, and Spanish). 
+• 
+If a grantee proposed to implement the competitive preference priority in its application, it 
+must carry out those proposed activities. When revising budgets, the activities for which the 
+grantee received competitive preference priority points must not be eliminated.  
+• 
+Grantees will report on their progress implementing the priorities in their IRIS reports. 
+Absolute Priorities 
+“Applications that propose activities with a significant focus on the teaching and learning of any modern 
+foreign languages except French, German, and Spanish.”  
+(Source: LRC program regulations, 34 CFR § 669.22(a)(2)) 
+Competitive Preference Priority 
+“Projects that will be implemented by or in partnership with one or more of the following entities: 
+(1) Community colleges (as defined in the Notice Inviting Applications). 
+(2) Historically Black colleges and universities (as defined in the Notice Inviting Applications). 
+(3) Tribal Colleges and Universities (as defined in the Notice Inviting Applications). 
+(4) Minority-serving institutions (as defined in the Notice Inviting Applications).” 
+(Source: Priority 2 subpart (b), Secretary’s Final Supplemental Priorities and Definitions for 
+Discretionary Grant Programs published in the Federal Register on December 10, 2021 (86 FR 
+70612)) 
+LRC  Program Administration Manual 
+FY 2022-2025 
+Appendix F – LRC Official Program Citations 
+ 
+34 
+Definitions: The definitions below are from the Supplemental Priorities, and are the definitions that 
+appear in the Notice Inviting Applications. 
+Community college means “junior or community college” as defined in section 312(f) of the 
+Higher Education Act of 1965, as amended (HEA). 
+Historically Black Colleges and Universities means colleges and universities that meet the criteria 
+set out in 34 CFR § 608.2. 
+Minority-Serving Institution (MSI) means an institution that is eligible to receive assistance under 
+sections 316 through 320 of part A of title III, under part B of title III, or under title V of the HEA. 
+Tribal College or University has the meaning ascribed it in section 316(b)(3) of the HEA. 
+Note: The institutions designated eligible under title III and title V may be viewed at the following 
+link: www2.ed.gov/about/offices/list/ope/idues/eligibility.html 
+LRC  Program Administration Manual 
+FY 2022-2025 
+Appendix G – Fly America and Open Skies 
+ 
+35 
+Appendix G – Fly America and Open Skies 
+The Fly America Act (49 U.S.C. 40118) generally provides that foreign air travel funded by Federal 
+government money may only be conducted on U.S. flag air carriers. Tickets paid for with federal funds 
+must be ticketed with a U.S. flag carrier code.  
+• 
+A "U.S. flag air carrier" is an air carrier that holds a certificate under 49 U.S.C. 41102 but does 
+not include a foreign air carrier operating under a permit. A carrier code is made up of the letters 
+that appear before the flight number (e.g., “UA 784” for United Airlines flight 784). 
+We understand that U.S. flag carriers are not always available to the final destination; however, a U.S. 
+flag carrier must be used to the furthest destination possible. Additionally, a grantee must fly on a U.S. 
+airline even if a foreign airline would be less expensive, provide preferred routing, or be more 
+convenient.  
+There are limited circumstances under which exceptions can be made for travelers to use non-U.S. air 
+carriers (see below). 
+If grantees choose to use non-federal funds to pay for an international flight, they do not need to 
+comply with Fly America/Open Skies. 
+Code Sharing and the Fly America Act 
+“Code sharing” is when a ticket is issued by one airline but operated by another. When a U.S. flag carrier 
+leases seats on a foreign carrier and the ticketing code is from the U.S. airline, it meets the Fly America 
+Act requirements. For example, on a flight from San Francisco, CA to Hong Kong: 
+• 
+American Airlines flight 6117 (ticketed as AA6117), operated by Cathay Pacific Airways, is 
+considered a U.S. carrier. 
+• 
+Cathay Pacific Airways flight 873 (ticketed as CX873) is not considered a U.S. carrier even though 
+it is the same flight as listed above. 
+Exceptions to the Fly America Act 
+The Federal Travel Regulation allows for limited exceptions to the Fly America Act. Use of a non-U.S. 
+airline is permissible when: 
+1. The transportation is provided under a bilateral or multilateral air transportation agreement, 
+such as the Open Skies Agreement (see next section). 
+2. The use of a foreign air carrier is determined to be a matter of necessity—mission, non-
+availability of flight, medical, safety/terrorist threats, non-availability of authorized class of 
+service. 
+LRC  Program Administration Manual 
+FY 2022-2025 
+Appendix G – Fly America and Open Skies 
+ 
+36 
+3. There is no U.S. flag carrier service on a particular leg of the route. Under this exception, a U.S. 
+carrier must be used as far as possible, and a foreign carrier is only allowed from the nearest 
+interchange point. 
+4. A U.S. flag carrier involuntarily reroutes travel on a foreign carrier. 
+5. Short-distance travel on a foreign carrier is allowed when the travel on the foreign carrier would 
+be less than 3 hours, and the equivalent travel on a U.S. carrier would at least double travel 
+time. 
+6. If a U.S. flag carrier offers nonstop service from origin to destination, the grantee must fly the 
+U.S. carrier unless such use would extend travel time (including delay at origin) by 24 hours or 
+more. 
+7. If a U.S. flag carrier does not offer non-stop service (i.e., there are layovers) between origin and 
+destination, the traveler must use a U.S. flag carrier on every portion of the route where it 
+provides service unless, when compared to a foreign carrier, such use would: 
+a. Increase the number of aircraft changes a traveler must make outside of the U.S. by 2 
+or more; or 
+b. Extend travel time by at least 6 hours or more; or 
+c. Require a connecting time of 4 hours or more at an overseas interchange point.  
+Open Skies Agreements 
+Open Skies agreements are bilateral air service agreements the U.S. Government negotiates with other 
+countries to provide rights for airlines to offer international passenger and cargo services. The broad 
+“Open Skies” term covers various types of aviation agreements, and many countries technically have an 
+Open Skies agreement with the U.S. for a specific aviation-related service. That said, only a few 
+countries have the type of agreement that includes provisions for federal government-funded 
+passenger travel and the use of flag carriers.  
+As of 2022, four countries/entities have the type of Open Skies agreement that covers LRC travel:  
+• 
+the European Union (E.U.) (plus Iceland and Norway per special amendments), 
+• 
+Australia,  
+• 
+Japan, and  
+• 
+Switzerland.  
+Other Open Skies Agreements covering air transport and cargo movement do not apply to federally 
+funded travel. When other agreements become eligible, GSA will update its website here. 
+Agreement with the European Union 
+The agreement between the United States and the European Union (27 countries, Iceland and Norway 
+included through special amendments to the Open Skies agreement) is sweeping and lets passengers 
+traveling on U.S. government funds use any E.U. carrier as long as the traveler stops in the E.U. along the 
+way or as the destination. In return, it allows E.U.-funded travelers to use U.S. airlines on equal footing 
+as E.U. airlines. 
+LRC  Program Administration Manual 
+FY 2022-2025 
+Appendix G – Fly America and Open Skies 
+ 
+37 
+Grantees may fly from any point in the U.S. to any point outside the U.S. on an E.U. airline whose 
+country belongs to the agreement. Sample allowable itineraries: 
+• 
+A point in the U.S. to a point in the E.U.: New York to Madrid. 
+• 
+A point in the U.S. to a point in the E.U. to a further point in a foreign country (as long as there is 
+a stop in an E.U. country): Washington to Paris to Istanbul. 
+Grantees may also fly on an E.U. carrier between any two points outside the U.S. 
+• 
+Rome to Amsterdam. 
+• 
+Frankfurt to Johannesburg, South Africa. 
+Agreements with Australia, Japan, and Switzerland 
+The agreements with Australia, Japan, and Switzerland are more limited and rely on specific city pair 
+agreements between the two countries in question. City Pair exceptions are somewhat complex to 
+check. 
+• 
+If a City-Pair Program contract exists between the origin and the destination city, the grantee 
+must take a U.S. airline (unless an above exception is authorized). Grantees need to check the 
+City-Pair Program website to verify that there is no City-Pair contract. 
+o Example: Washington, D.C. to Zurich has a City Pair Program contract, so the grantee 
+must take a U.S. airline. 
+• 
+If no City Pair Program exists between the origin and the destination city, the grantee may take 
+a U.S. carrier or an Australian, Japanese, or Swiss airline from the U.S. to the destination or from 
+the destination to the U.S.  
+o Boston to Osaka, Japan: No City-Pair Program exists, so the grantee can take an 
+American or Japanese airline. 
+o Boston to Tokyo, Japan: A City-Pair Program exists, so the grantee must take an 
+American airline. 
+o Boston to Tokyo, Japan, to Seoul, South Korea: Not allowable on a Japanese airline. 
+Under the Agreements with Switzerland, Australia, and Japan, the traveler can only use 
+a foreign airline from a point in the U.S. to a point in one of those three participating 
+countries, or vice- versa. The traveler would have to fly on a U.S. airline from Boston to 
+Korea unless the travel met another exception. 
+• 
+The grantee can also fly between any two points outside the United States on a Swiss, 
+Australian, or Japanese airline. 
+o Example: Australia to Indonesia. 
+Open Skies Frequently Asked Questions 
+Does the Fly America Act supersede Open Skies partnerships? 
+LRC  Program Administration Manual 
+FY 2022-2025 
+Appendix G – Fly America and Open Skies 
+ 
+38 
+No. The four Open Skies agreements listed above allow U.S. government-funded travelers to use 
+Open Skies-compliant carriers on equal footing as U.S. air carriers. 
+Are Turkish and British airlines included in the E.U. Open Skies agreement? 
+No. Only European Union member countries (plus Norway and Iceland) are covered under the Open 
+Skies agreement with the E.U. Candidate countries and former E.U. members are not eligible to be 
+included in the E.U. Open Skies agreement. 
+I have seen online that the U.S. has Open Skies agreements with countries not outlined on your list 
+(e.g., South Korea as seen on this list). Are those countries’ flag carriers a possibility? 
+No. The broad “Open Skies” term covers various types of aviation agreements between the U.S. and 
+foreign countries. The link cited in the question shows many, if not all, of the various “Open Skies” 
+agreements that exist between the U.S. and countries/entities around the world, but these may just 
+allow the flag carriers of the U.S. and the partner to use each other’s airports, lease gate space, or 
+facilitate the coordination of cargo planes. 
+While many countries/entities technically have an Open Skies agreement with the U.S., only four 
+have the type of agreement that includes a provision for both countries to allow government-
+funded travelers from the partner to use government funds to travel on the partner country’s air 
+carriers. 
+In short, the U.S. and South Korea have a broad Open Skies agreement that allows U.S. carriers to fly 
+into South Korea and vice-versa, but do NOT have the type of Open Skies agreement that allows U.S. 
+government-funded travelers to use a South Korean airline on the same footing as a U.S. airline. 
+Verifying Compliance in IRIS 
+When submitting a Travel Approval Request (TAR), grantees must certify that their proposed 
+international itinerary complies with the Fly America Act and/or Open Skies agreement. If the travel is 
+eligible for an exception or allowable under an Open Skies partnership, the grantee should explain why 
+in the “comments” section. For more information on Travel Approval Requests, see page 16. 
+LRC  Program Administration Manual 
+FY 2022-2025 
+Appendix H – Subaward Resources 
+ 
+39 
+Appendix H – Subaward Resources 
+IFLE defers to each institution’s office of sponsored projects to determine the required documentation 
+and paperwork for subawards made on a Title VI grant. Please review the Department’s webpage 
+addressing subaward management for more information. 
+Each subaward must have a formal written agreement for meeting the administrative, financial, and 
+reporting requirements of a grant. IFLE holds grantees accountable for their subawardees' research, 
+spending, and reporting actions, which must conform to all terms and conditions of the grant 
+award. The guidance below is intended to help draft such an agreement and assist the primary 
+institution in monitoring of the implementation of the subaward. 
+Note: The following are sections of the Uniform Guidance which relate to subaward management. It is 
+not the Uniform Guidance in its entirety, nor is it a complete list of sections related to subaward 
+management. 
+Key Sections of Uniform Guidance Related to Subawards  
+2 CFR § Part 200 Subpart A 
+§200.74   PASS-THROUGH ENTITY. 
+ 
+Pass-through entity means a non-Federal entity that provides a subaward to a subrecipient to 
+carry out part of a Federal program. 
+§200.92   SUBAWARD. 
+ 
+Subaward means an award provided by a pass-through entity to a subrecipient for the 
+subrecipient to carry out part of a Federal award received by the pass-through entity. It does not include 
+payments to a contractor or payments to an individual that is a beneficiary of a Federal program. A 
+subaward may be provided through any form of legal agreement, including an agreement that the pass-
+through entity considers a contract. 
+§200.93   SUBRECIPIENT. 
+ 
+Subrecipient means a non-Federal entity that receives a subaward from a pass-through entity to 
+carry out part of a Federal program; but does not include an individual that is a beneficiary of such program. 
+A subrecipient may also be a recipient of other Federal awards directly from a Federal awarding agency. 
+2 CFR § Part 200 Subpart C 
+§200.205   FEDERAL AWARDING AGENCY REVIEW OF RISK POSED BY APPLICANTS. 
+(a) Prior to making a Federal award, the Federal awarding agency is required by 31 U.S.C. 3321 and 41 
+U.S.C. 2313 note to review information available through any OMB-designated repositories of 
+governmentwide eligibility qualification or financial integrity information, such as SAM Exclusions 
+LRC  Program Administration Manual 
+FY 2022-2025 
+Appendix H – Subaward Resources 
+ 
+40 
+and “Do Not Pay”. See also suspension and debarment requirements at 2 CFR § part 180 as well as 
+individual Federal agency suspension and debarment regulations in title 2 of the Code of Federal 
+Regulations. 
+(b) In addition, for competitive grants or cooperative agreements, the Federal awarding agency must 
+have in place a framework for evaluating the risks posed by applicants before they receive Federal 
+awards. This evaluation may incorporate results of the evaluation of the applicant's eligibility or the 
+quality of its application. If the Federal awarding agency determines that a Federal award will be 
+made, special conditions that correspond to the degree of risk assessed may be applied to the 
+Federal award. Criteria to be evaluated must be described in the announcement of funding 
+opportunity described in §200.203 Notices of funding opportunities. 
+(c) In evaluating risks posed by applicants, the Federal awarding agency may use a risk-based approach 
+and may consider any items such as the following: 
+(1) Financial stability; 
+(2) Quality of management systems and ability to meet the management standards prescribed 
+in this part; 
+(3) History of performance. The applicant's record in managing Federal awards, if it is a prior 
+recipient of Federal awards, including timeliness of compliance with applicable reporting 
+requirements, conformance to the terms and conditions of previous Federal awards, and if 
+applicable, the extent to which any previously awarded amounts will be expended prior to 
+future awards; 
+(4) Reports and findings from audits performed under Subpart F—Audit Requirements of this 
+part or the reports and findings of any other available audits; and 
+(5) The applicant's ability to effectively implement statutory, regulatory, or other requirements 
+imposed on non-Federal entities. 
+(d) In addition to this review, the Federal awarding agency must comply with the guidelines on 
+governmentwide suspension and debarment in 2 CFR § part 180, and must require non-Federal 
+entities to comply with these provisions. These provisions restrict Federal awards, subawards and 
+contracts with certain parties that are debarred, suspended or otherwise excluded from or 
+ineligible for participation in Federal programs or activities. 
+§200.207   SPECIFIC CONDITIONS. 
+(a) The Federal awarding agency or pass-through entity may impose additional specific award 
+conditions as needed, in accordance with paragraphs (b) and (c) of this section, under the following 
+circumstances: 
+(1) Based on the criteria set forth in §200.205 Federal awarding agency review of risk posed by 
+applicants; 
+(2) When an applicant or recipient has a history of failure to comply with the general or 
+specific terms and conditions of a Federal award; 
+(3) When an applicant or recipient fails to meet expected performance goals as described in 
+§200.210 Information contained in a Federal award; or 
+(4) When an applicant or recipient is not otherwise responsible. 
+(b) These additional Federal award conditions may include items such as the following: 
+(1) Requiring payments as reimbursements rather than advance payments; 
+(2) Withholding authority to proceed to the next phase until receipt of evidence of acceptable 
+performance within a given period of performance; 
+(3) Requiring additional, more detailed financial reports; 
+LRC  Program Administration Manual 
+FY 2022-2025 
+Appendix H – Subaward Resources 
+ 
+41 
+(4) Requiring additional project monitoring; 
+(5) Requiring the non-Federal entity to obtain technical or management assistance; or 
+(6) Establishing additional prior approvals.  
+(c) The Federal awarding agency or pass-through entity must notify the applicant or non-Federal entity 
+as to: 
+(1) The nature of the additional requirements; 
+(2) The reason why the additional requirements are being imposed; 
+(3) The nature of the action needed to remove the additional requirement, if applicable; 
+(4) The time allowed for completing the actions if applicable, and 
+(5) The method for requesting reconsideration of the additional requirements imposed. 
+(6) Any specific conditions must be promptly removed once the conditions that prompted 
+them have been corrected. 
+2 CFR § Part 200 Subpart D 
+SUBRECIPIENT MONITORING AND MANAGEMENT 
+§200.330   SUBRECIPIENT AND CONTRACTOR DETERMINATIONS. 
+ 
+The non-Federal entity may concurrently receive Federal awards as a recipient, a subrecipient, and 
+a contractor, depending on the substance of its agreements with Federal awarding agencies and pass-
+through entities. Therefore, a pass-through entity must make case-by-case determinations whether each 
+agreement it makes for the disbursement of Federal program funds casts the party receiving the funds in 
+the role of a subrecipient or a contractor. The Federal awarding agency may supply and require recipients to 
+comply with additional guidance to support these determinations provided such guidance does not conflict 
+with this section. 
+(a) Subrecipients. A subaward is for the purpose of carrying out a portion of a Federal award and 
+creates a Federal assistance relationship with the subrecipient. See §200.92 Subaward. 
+Characteristics which support the classification of the non-Federal entity as a subrecipient include 
+when the non-Federal entity: 
+(1) Determines who is eligible to receive what Federal assistance; 
+(2) Has its performance measured in relation to whether objectives of a Federal program were 
+met; 
+(3) Has responsibility for programmatic decision making; 
+(4) Is responsible for adherence to applicable Federal program requirements specified in the 
+Federal award; and 
+(5) In accordance with its agreement, uses the Federal funds to carry out a program for a 
+public purpose specified in authorizing statute, as opposed to providing goods or services 
+for the benefit of the pass-through entity. 
+(b) Contractors. A contract is for the purpose of obtaining goods and services for the non-Federal 
+entity's own use and creates a procurement relationship with the contractor. See §200.22 Contract. 
+Characteristics indicative of a procurement relationship between the non-Federal entity and a 
+contractor are when the non-Federal entity receiving the Federal funds: 
+(1) Provides the goods and services within normal business operations; 
+(2) Provides similar goods or services to many different purchasers; 
+(3) Normally operates in a competitive environment; 
+(4) Provides goods or services that are ancillary to the operation of the Federal program; and 
+LRC  Program Administration Manual 
+FY 2022-2025 
+Appendix H – Subaward Resources 
+ 
+42 
+(5) Is not subject to compliance requirements of the Federal program as a result of the 
+agreement, though similar requirements may apply for other reasons. 
+(c) Use of judgment in making determination. In determining whether an agreement between a pass-
+through entity and another non-Federal entity casts the latter as a subrecipient or a contractor, the 
+substance of the relationship is more important than the form of the agreement. All of the 
+characteristics listed above may not be present in all cases, and the pass-through entity must use 
+judgment in classifying each agreement as a subaward or a procurement contract. 
+§200.331   REQUIREMENTS FOR PASS-THROUGH ENTITIES. 
+ 
+All pass-through entities must: 
+(a) Ensure that every subaward is clearly identified to the subrecipient as a subaward and includes the 
+following information at the time of the subaward and if any of these data elements change, 
+include the changes in subsequent subaward modification. When some of this information is not 
+available, the pass-through entity must provide the best information available to describe the 
+Federal award and subaward. Required information includes: 
+(1) Federal Award Identification. 
+(i) Subrecipient name (which must match the name associated with its unique entity; 
+(ii) Subrecipient's unique entity identifier; 
+(iii) Federal Award Identification Number (FAIN); 
+(iv) Federal Award Date (see §200.39 Federal award date); 
+(v) Subaward Period of Performance Start and End Date; 
+(vi) Amount of Federal Funds Obligated by this action; 
+(vii) Total Amount of Federal Funds Obligated to the subrecipient; 
+(viii) Total Amount of the Federal Award; 
+(ix) Federal award project description, as required to be responsive to the Federal 
+Funding Accountability and Transparency Act (FFATA); 
+(x) Name of Federal awarding agency, pass-through entity, and contact information 
+for awarding official, 
+(xi) CFDA Number and Name; the pass-through entity must identify the dollar amount 
+made available under each Federal award and the CFDA number at time of 
+disbursement; 
+(xii) Identification of whether the award is R&D; and 
+(xiii) Indirect cost rate for the Federal award (including if the de minimis rate is charged 
+per §200.414 Indirect (F&A) costs). 
+(2) All requirements imposed by the pass-through entity on the subrecipient so that the 
+Federal award is used in accordance with Federal statutes, regulations and the terms and 
+conditions of the Federal award. 
+(3) Any additional requirements that the pass-through entity imposes on the subrecipient in 
+order for the pass-through entity to meet its own responsibility to the Federal awarding 
+agency including identification of any required financial and performance reports; 
+(4) An approved federally recognized indirect cost rate negotiated between the subrecipient 
+and the Federal Government or, if no such rate exists, either a rate negotiated between the 
+pass-through entity and the subrecipient (in compliance with this part), or a de minimis 
+indirect cost rate as defined in §200.414 Indirect (F&A) costs, paragraph (f) of this part. 
+LRC  Program Administration Manual 
+FY 2022-2025 
+Appendix H – Subaward Resources 
+ 
+43 
+(5) A requirement that the subrecipient permit the pass-through entity and auditors to have 
+access to the subrecipient's records and financial statements as necessary for the pass-
+through entity to meet the requirements of this part; and 
+(6) Appropriate terms and conditions concerning closeout of the subaward. 
+(b) Evaluate each subrecipient's risk of noncompliance with Federal statutes, regulations, and the 
+terms and conditions of the subaward for purposes of determining the appropriate subrecipient 
+monitoring described in paragraphs (d) and (e) of this section, which may include consideration of 
+such factors as: 
+(1) The subrecipient's prior experience with the same or similar subawards; 
+(2) The results of previous audits including whether or not the subrecipient receives a Single 
+Audit in accordance with Subpart F—Audit Requirements of this part, and the extent to 
+which the same or similar subaward has been audited as a major program; 
+(3) Whether the subrecipient has new personnel or new or substantially changed systems; and 
+(4) The extent and results of Federal awarding agency monitoring (e.g., if the subrecipient also 
+receives Federal awards directly from a Federal awarding agency). 
+(c) Consider imposing specific subaward conditions upon a subrecipient if appropriate as described in 
+§200.207 Specific conditions. 
+(d) Monitor the activities of the subrecipient as necessary to ensure that the subaward is used for 
+authorized purposes, in compliance with Federal statutes, regulations, and the terms and 
+conditions of the subaward; and that subaward performance goals are achieved. Pass-through 
+entity monitoring of the subrecipient must include: 
+(1) Reviewing financial and performance reports required by the pass-through entity. 
+(2) Following-up and ensuring that the subrecipient takes timely and appropriate action on all 
+deficiencies pertaining to the Federal award provided to the subrecipient from the pass-
+through entity detected through audits, on-site reviews, and other means. 
+(3) Issuing a management decision for audit findings pertaining to the Federal award provided 
+to the subrecipient from the pass-through entity as required by §200.521 Management 
+decision. 
+(e) Depending upon the pass-through entity's assessment of risk posed by the subrecipient (as 
+described in paragraph (b) of this section), the following monitoring tools may be useful for the 
+pass-through entity to ensure proper accountability and compliance with program requirements 
+and achievement of performance goals: 
+(1) Providing subrecipients with training and technical assistance on program-related matters; 
+and 
+(2) Performing on-site reviews of the subrecipient's program operations; 
+(3) Arranging for agreed-upon-procedures engagements as described in §200.425 Audit 
+services. 
+(f) Verify that every subrecipient is audited as required by Subpart F—Audit Requirements of this part 
+when it is expected that the subrecipient's Federal awards expended during the respective fiscal 
+year equaled or exceeded the threshold set forth in §200.501 Audit requirements. 
+LRC  Program Administration Manual 
+FY 2022-2025 
+Appendix H – Subaward Resources 
+ 
+44 
+(g) Consider whether the results of the subrecipient's audits, on-site reviews, or other monitoring 
+indicate conditions that necessitate adjustments to the pass-through entity's own records. 
+(h) Consider taking enforcement action against noncompliant subrecipients as described in §200.338 
+Remedies for noncompliance of this part and in program regulations. 
+§200.332   FIXED AMOUNT SUBAWARDS. 
+ 
+With prior written approval from the Federal awarding agency, a pass-through entity may provide 
+subawards based on fixed amounts up to the Simplified Acquisition Threshold, provided that the subawards 
+meet the requirements for fixed amount awards in §200.201 Use of grant agreements (including fixed 
+amount awards), cooperative agreements, and contracts. 
+§200.338   REMEDIES FOR NONCOMPLIANCE. 
+ 
+If a non-Federal entity fails to comply with Federal statutes, regulations or the terms and 
+conditions of a Federal award, the Federal awarding agency or pass-through entity may impose 
+additional conditions, as described in §200.207 Specific conditions. If the Federal awarding agency or 
+pass-through entity determines that noncompliance cannot be remedied by imposing additional 
+conditions, the Federal awarding agency or pass-through entity may take one or more of the following 
+actions, as appropriate in the circumstances: 
+(a) Temporarily withhold cash payments pending correction of the deficiency by the non-Federal 
+entity or more severe enforcement action by the Federal awarding agency or pass-through 
+entity. 
+(b) Disallow (that is, deny both use of funds and any applicable matching credit for) all or part of the 
+cost of the activity or action not in compliance. 
+(c) Wholly or partly suspend or terminate the Federal award. 
+(d) Initiate suspension or debarment proceedings as authorized under 2 CFR § part 180 and Federal 
+awarding agency regulations (or in the case of a pass-through entity, recommend such a 
+proceeding be initiated by a Federal awarding agency). 
+(e) Withhold further Federal awards for the project or program. 
+(f) Take other remedies that may be legally available. 
+2 CFR § Part 200 Subpart E 
+200.425   AUDIT SERVICES. 
+(a) A reasonably proportionate share of the costs of audits required by, and performed in 
+accordance with, the Single Audit Act Amendments of 1996 (31 U.S.C. 7501-7507), as 
+implemented by requirements of this part, are allowable. However, the following audit costs are 
+unallowable: 
+(1) Any costs when audits required by the Single Audit Act and Subpart F—Audit 
+Requirements of this part have not been conducted or have been conducted but not in 
+accordance therewith; and 
+(2) Any costs of auditing a non-Federal entity that is exempted from having an audit 
+conducted under the Single Audit Act and Subpart F—Audit Requirements of this part 
+LRC  Program Administration Manual 
+FY 2022-2025 
+Appendix H – Subaward Resources 
+ 
+45 
+because its expenditures under Federal awards are less than $750,000 during the non-
+Federal entity's fiscal year. 
+(b) The costs of a financial statement audit of a non-Federal entity that does not currently have a 
+Federal award may be included in the indirect cost pool for a cost allocation plan or indirect cost 
+proposal. 
+(c) Pass-through entities may charge Federal awards for the cost of agreed-upon-procedures 
+engagements to monitor subrecipients (in accordance with Subpart D—Post Federal Award 
+Requirements of this part, §200.330 Subrecipient and contractor determinations through 
+200.332 Fixed Amount Subawards) who are exempted from the requirements of the Single 
+Audit Act and Subpart F—Audit Requirements of this part. This cost is allowable only if the 
+agreed-upon-procedures engagements are: 
+(1) Conducted in accordance with GAGAS attestation standards; 
+(2) Paid for and arranged by the pass-through entity; and 
+(3) Limited in scope to one or more of the following types of compliance requirements: 
+activities allowed or unallowed; allowable costs/cost principles; eligibility; and reporting. 
+2 CFR § Part 200 Subpart F 
+§200.501   AUDIT REQUIREMENTS. 
+(a) Audit required. A non-Federal entity that expends $750,000 or more during the non-Federal entity's 
+fiscal year in Federal awards must have a single or program-specific audit conducted for that year in 
+accordance with the provisions of this part. 
+(b) Single audit. A non-Federal entity that expends $750,000 or more during the non-Federal entity's 
+fiscal year in Federal awards must have a single audit conducted in accordance with §200.514 
+Scope of audit except when it elects to have a program-specific audit conducted in accordance with 
+paragraph (c) of this section. 
+(c) Program-specific audit election. When an auditee expends Federal awards under only one Federal 
+program (excluding R&D) and the Federal program's statutes, regulations, or the terms and 
+conditions of the Federal award do not require a financial statement audit of the auditee, the 
+auditee may elect to have a program-specific audit conducted in accordance with §200.507 
+Program-specific audits. A program-specific audit may not be elected for R&D unless all of the 
+Federal awards expended were received from the same Federal agency, or the same Federal 
+agency and the same pass-through entity, and that Federal agency, or pass-through entity in the 
+case of a subrecipient, approves in advance a program-specific audit. 
+(d) Exemption when Federal awards expended are less than $750,000. A non-Federal entity that 
+expends less than $750,000 during the non-Federal entity's fiscal year in Federal awards is exempt 
+from Federal audit requirements for that year, except as noted in §200.503 Relation to other audit 
+requirements, but records must be available for review or audit by appropriate officials of the 
+Federal agency, pass-through entity, and Government Accountability Office (GAO). 
+(e) Federally Funded Research and Development Centers (FFRDC). Management of an auditee that 
+owns or operates a FFRDC may elect to treat the FFRDC as a separate entity for purposes of this 
+part. 
+LRC  Program Administration Manual 
+FY 2022-2025 
+Appendix H – Subaward Resources 
+ 
+46 
+(f) Subrecipients and Contractors. An auditee may simultaneously be a recipient, a subrecipient, and a 
+contractor. Federal awards expended as a recipient or a subrecipient are subject to audit under this 
+part. The payments received for goods or services provided as a contractor are not Federal awards. 
+Section §200.330 Subrecipient and contractor determinations sets forth the considerations in 
+determining whether payments constitute a Federal award or a payment for goods or services 
+provided as a contractor. 
+(g) Compliance responsibility for contractors. In most cases, the auditee's compliance responsibility for 
+contractors is only to ensure that the procurement, receipt, and payment for goods and services 
+comply with Federal statutes, regulations, and the terms and conditions of Federal awards. Federal 
+award compliance requirements normally do not pass through to contractors. However, the 
+auditee is responsible for ensuring compliance for procurement transactions which are structured 
+such that the contractor is responsible for program compliance or the contractor's records must be 
+reviewed to determine program compliance. Also, when these procurement transactions relate to a 
+major program, the scope of the audit must include determining whether these transactions are in 
+compliance with Federal statutes, regulations, and the terms and conditions of Federal awards. 
+(h) For-profit subrecipient. Since this part does not apply to for-profit subrecipients, the pass-through 
+entity is responsible for establishing requirements, as necessary, to ensure compliance by for-profit 
+subrecipients. The agreement with the for-profit subrecipient must describe applicable compliance 
+requirements and the for-profit subrecipient's compliance responsibility. Methods to ensure 
+compliance for Federal awards made to for-profit subrecipients may include pre-award audits, 
+monitoring during the agreement, and post-award audits. See also §200.331 Requirements for 
+pass-through entities. 
+LRC  Program Administration Manual 
+FY 2022-2025 
+Appendix I – The Site Visit 
+ 
+47 
+Appendix I – The Site Visit  
+During the grant performance period, the U.S. Department of Education program officer may conduct an 
+on-site or virtual site visit of the grantee’s project. The program officer will provide the grantee a report 
+after the site visit has concluded. 
+Potential Purposes for Conducting a Visit 
+• 
+Assess internal controls 
+• 
+Ensure compliance with approved plan 
+• 
+Identify project strengths and areas for improvement 
+• 
+Observe and document promising practices 
+• 
+Provide technical assistance 
+• 
+Respond to complaints/high risk evidence 
+Pre-visit Preparation 
+• 
+Program officer notifies grantee of proposed dates for the site visit  
+• 
+Once the dates are established, the program officer sends a letter to the grantee that includes 
+the following: 
+o Confirmed dates 
+o Purpose of the visit 
+o ED staff conducting the visit 
+o Requested meetings, participants/interviewees 
+o Requested financial documents/documentation and date to receive 
+o Date to receive the first draft of the site visit agenda 
+• 
+The grantee(s) may be asked to prepare a detailed agenda for the site visit. 
+Requested documents may include, but are not limited to, the following: 
+• 
+Relevant organizational charts 
+• 
+Policies and procedures for program management and fiscal operations 
+• 
+Chart of accounts 
+• 
+Key personnel lists and their time and effort forms 
+• 
+Documentation for federal drawdowns to disbursements for the specified grant project 
+• 
+Payroll documentation for the last 12 months 
+• 
+Financial transactions for the last 12 months 
+• 
+List of contracts supported with grant funds 
+• 
+Project-related travel documentation 
+• 
+A-133 audit documents (letter, summary sheet of findings and questioned costs, if applicable) 
+LRC  Program Administration Manual 
+FY 2022-2025 
+Appendix J – Open Licensing and Citing Support 
+ 
+48 
+Appendix J – Open Licensing and Citing Support  
+As an institution receiving funding from the International and Foreign Language Education (IFLE) office 
+of the U.S. Department of Education, it is beneficial both to you, as a grantee, and to the Federal 
+Government, to publicize your project’s activities and results. As an IFLE grantee, you are required to 
+properly cite the LRC program in all related publications, websites, newsletters, and press releases. Also, 
+please provide a link to the IFLE website (www.ed.gov/ope/iegps) somewhere on your project website.  
+Open Licensing Requirements for Grant Deliverables 
+Unless an exception applies, you are required to openly license to the public grant deliverables created 
+in whole, or in part, with Department grant funds. When the deliverable consists of modifications to 
+pre-existing works, the license extends only to those modifications that can be separately identified and 
+only to the extent that open licensing is permitted under the terms of any licenses or other legal 
+restrictions on the use of pre-existing works.  
+Additionally, a grantee or subgrantee that is awarded competitive grant funds must have a plan to 
+disseminate these public grant deliverables. This dissemination plan can be developed and submitted 
+after your application has been reviewed and selected for funding.  
+• 
+Grantees must openly license to the public any grant deliverable that is created wholly or in part 
+with Department competitive grant funds. 
+• 
+Grantees must grant to the public a worldwide, non-exclusive, royalty-free, perpetual, and 
+irrevocable license to access, reproduce, prepare derivative works, publicly perform, publicly 
+display, and distribute the copyrightable work provided that attribution is given to the copyright 
+holder. 
+• 
+The open license also must contain a symbol or device that readily communicates to users the 
+permissions granted concerning the use of the copyrightable work; machine-readable code for 
+digital resources; readily accessed legal terms; and the statement of attribution. 
+• 
+Grantees may select any open licenses that comply with the requirements of this section, 
+including, at the grantee’s discretion, a license that limits use to noncommercial purposes. 
+• 
+A grantee that is awarded competitive grant funds must have a plan to disseminate the openly 
+licensed copyrightable works created with grant funds. 
+• 
+The rule does not apply to: 
+o funding for general operating expenses; 
+o support to individuals (e.g., scholarships, fellowships); 
+o grant deliverables that are jointly funded by the Department and another Federal 
+agency if the other Federal agency does not require open licensing; 
+o copyrightable works not created with Department grant funds; 
+o peer-reviewed scholarly publications funded by the Department; 
+o grantees under the Ready To Learn Television Program; or 
+o a grantee that has received an exception from the Secretary of Education. 
+LRC  Program Administration Manual 
+FY 2022-2025 
+Appendix J – Open Licensing and Citing Support 
+ 
+49 
+For additional information on the open licensing requirements, please refer to 2 CFR § 3474.20 and visit 
+the website for the Department's Office of Educational Technology.  
+Format for Acknowledging the Use of Federal Funds in Publications 
+and Other Project Materials 
+You must cite International and Foreign Language Education (IFLE) as your funding source in all project-
+related publications, websites, and press releases. The term “project materials” means a copyrightable 
+work developed with funds from a grant issued by the Department. (34 CFR § 75.622) 
+The following is the required citation (34 CFR § 75.620) for any digital or print publication that contains IFLE 
+project materials: 
+“The contents of this [insert type of publication, such as book report, film] were developed under a 
+grant from the U.S. Department of Education. However, those contents do not necessarily represent 
+the policy of the Department of Education, and you should not assume endorsement by the Federal 
+Government.” 
+LRC  Program Administration Manual 
+FY 2022-2025 
+Appendix K – Engage with IFLE Flyer 
+ 
+50 
+Appendix K – Engage with IFLE Flyer 
+Click here to view this document online. 
+ 

@@ -1,0 +1,2307 @@
+ 
+ 
+OMB Control Number 1840-0788 | Expiration Date 02/28/2023 
+ 
+ 
+ 
+ 
+U.S. Department of Education 
+Office of Postsecondary Education 
+Accreditation Group 
+ 
+ 
+ACCREDITATION HANDBOOK 
+ 
+In accordance with 34 CFR Part 602: 
+The Secretary’s Recognition of Accrediting Agencies 
+ 
+ 
+Revised February 2022 
+ 
+ 
+Page 2 of 37 
+ 
+ 
+Contents 
+Overview .....................................................................................................................................................................3 
+Standard of Review ....................................................................................................................................................3 
+General Submission Information ................................................................................................................................4 
+§ 602.10 - Link to Federal programs. ..........................................................................................................................4 
+§ 602.11 - Geographic area of accrediting activities. .................................................................................................5 
+§ 602.12 Accrediting experience. ...............................................................................................................................6 
+§ 602.14 Purpose and organization. ...........................................................................................................................8 
+§ 602.15 Administrative and fiscal responsibilities. ................................................................................................ 10 
+§ 602.16 Accreditation and preaccreditation standards. ........................................................................................ 12 
+§ 602.17 Application of standards in reaching an accrediting decision. ................................................................. 16 
+§ 602.18 Ensuring consistency in decision-making. ................................................................................................ 18 
+§ 602.19 Monitoring and reevaluation of accredited institutions and programs. .................................................. 20 
+§ 602.20 Enforcement of standards. ....................................................................................................................... 21 
+§ 602.21 Review of standards. ................................................................................................................................ 22 
+§ 602.22 Substantive changes and other reporting requirements. ........................................................................ 23 
+§ 602.23 Operating procedures all agencies must have. ........................................................................................ 27 
+§ 602.24 Additional procedures certain institutional agencies must have. ............................................................ 29 
+§ 602.25 Due process. ............................................................................................................................................. 32 
+§ 602.26 Notification of accrediting decisions. ....................................................................................................... 33 
+§ 602.27 Other information an agency must provide the Department. ................................................................. 35 
+§ 602.28 Regard for decisions of States and other accrediting agencies. ............................................................... 35 
+Appendix: Required responses by agency type for 34 CFR §§ 602.10-602.28 ........................................................ 37 
+ 
+ 
+ 
+Page 3 of 37 
+ 
+ 
+Overview 
+The purpose of this Handbook is to provide clarity to the public regarding existing requirements under the law 
+and regulations, as well as additional clarity on guidance to accrediting agencies on the documentation for 
+submission of a petition1 from an agency seeking recognition from the U.S. Secretary of Education under the 
+Higher Education Act of 1965, as amended (HEA). Accrediting agencies recognized by the Secretary identify 
+those agencies, for Federal purposes, as reliable authorities of the quality of education or training provided by 
+the institutions of higher education and the higher education programs they accredit.  
+This Handbook does not supersede applicable regulations or statute. This Handbook supersedes the previous 
+version of the Handbook issued on December 22, 2020, in full. 
+Standard of Review 
+The Secretary’s Criteria for Recognition are organized by sections on the U.S. Department of Education’s e-
+Recognition website. For each of these sections, Department staff will review the application and related 
+materials, including the results of site visits and file reviews, and issue one of the following recommended 
+findings in each section and overall recognition recommendation: 
+Fully compliant – the agency has the necessary policies, practices, and standards in place and, in each 
+example provided or reviewed during the staff analyst’s observation, has effectively adhered to those 
+policies, practices, and/or standards. The agency could also be found compliant if the agency has the 
+appropriate policies, practices, and standards in place, but the agency has not had the need to 
+implement or demonstrate compliance with the policies, practices, or standards during the review 
+period.  
+Substantially compliant – the agency demonstrated that it has the necessary policies, practices, and 
+standards in place and generally adheres with fidelity to those policies, practices, and standards; or the 
+agency has policies, practices, and standards in place that need minor modifications to reflect its 
+generally compliant practice. If Department staff determines that the agency has come into compliance 
+during the review period, this designation may require no additional response or action from the 
+agency. However, Department staff or the National Advisory Committee on Institutional Quality and 
+Integrity (NACIQI) could recommend, or the SDO could require, that the agency submit a monitoring 
+report to demonstrate that it has become or remains compliant. 
+Not compliant – the agency does not have the necessary policies, practices, and standards in place, or 
+has the policies, practices, and standards in place but has consistently failed to adhere to them as 
+demonstrated by the examples provided or reviewed during Department staff’s observations. A finding 
+of noncompliance may result in a recommendation from Department staff or NACIQI, or a decision by 
+the senior Department official (SDO), that an agency's recognition be denied, limited, suspended, or 
+terminated. Alternatively, Department staff or NACIQI could recommend, or the SDO could require, that 
+the agency come into compliance and submit a compliance report that would be reviewed by 
+Department staff and NACIQI at a subsequent meeting, and by the SDO, to make a final recognition or 
+compliance decision.  
+These recommended findings are presented to NACIQI and the SDO. An overview of the Secretary's recognition 
+process for accrediting agencies is available here. 
+ 
+1 The term “petition” has the same meaning as the term “application” as used in Subpart C of 34 CFR 602. 
+Page 4 of 37 
+ 
+ 
+General Submission Information 
+• 
+Where applicable, agencies that accredit both institutions and programs must provide documentation 
+and examples related to their review of both institutions and programs. 
+• 
+During a file review, Department staff must be provided with access to agency files and documents, 
+including electronic files, necessary to evaluate the agency’s compliance with applicable statutory and 
+regulatory requirements. The Department must be able to obtain and archive copies of those 
+documents, in either an electronic or paper-based format, to serve as documentation for the analyst’s 
+recommended finding and for review by NACIQI. The Department may be required to disclose some or 
+all of these documents to the public under Freedom of Information Act (FOIA) and/or Federal Advisory 
+Committee Act (FACA) requirements. In such a case, the Department requires the agency to redact 
+information or designate information for redaction from those documents, as provided by § 602.31(f), 
+before they are provided to the Department or released to the public. 
+• 
+Selection of institutions and/or programs reviewed during the Department staff’s file review will be 
+made by Department staff. This will include selection of files and institutions and/or programs based on 
+compliance factors, litigation, and news reports, accrediting agency actions, financial concerns, and/or 
+random selection, but will be limited to institutions and/or programs reviewed during the agency’s 
+current recognition period. However, the agency can provide additional files it believes offer a more 
+relevant example of the agency’s or its member institutions’ or programs’ work.  
+• 
+Information cannot be submitted via a live webpage or other shared document. All documents 
+submitted by the agency must be submitted in a manner that, once submitted, can no longer be edited 
+and meets other Department requirements. This requirement is necessary to avoid discrepancies if 
+information found in an online document, such as a webpage, is changed after submission to the 
+Department. The Department must maintain an accurate and contemporaneous record of information, 
+as required by the regulations at §§ 602.31, 602.34(c), and 602.36(a) and may request a specific type of 
+submission in order to meet Federal cybersecurity and other requirements.  
+• 
+Definitions that apply to the Department’s recognition regulations can be found at 34 CFR §§ 600.2 and 
+602.3.  
+• 
+For further information, including up-to-date contact information for Department staff, please visit 
+https://www.ed.gov/accreditation. 
+ 
+§ 602.10 - Link to Federal programs. 
+ 
+The agency must demonstrate that-- 
+(a) If the agency accredits institutions of higher education, its accreditation is a required element in 
+enabling at least one of those institutions to establish eligibility to participate in HEA programs. If, 
+pursuant to 34 CFR 600.11(b), an agency accredits one or more institutions that participate in HEA 
+programs and that could designate the agency as its link to HEA programs, the agency satisfies this 
+requirement, even if the institution currently designates another institutional accrediting agency as its 
+Federal link; or 
+(b) If the agency accredits institutions of higher education or higher education programs, or both, its 
+accreditation is a required element in enabling at least one of those entities to establish eligibility to 
+participate in non-HEA Federal programs.  
+ 
+Page 5 of 37 
+ 
+ 
+In Petition 
+File Review 
+For agencies that accredit institutions to participate in HEA programs (602.10(a)):  
+• Submitting a petition for initial recognition:  the agency must provide a letter written 
+to it by at least one institution or program attesting that, should the agency become 
+recognized, the institution or program could rely on the agency’s accreditation to 
+establish eligibility to participate in HEA programs. 
+• Submitting a petition for renewal of recognition:  the agency must submit the name of 
+one of its accredited institutions that participates in an HEA program and that could be 
+made eligible to participate in such a program as a result of accreditation by the agency.  
+ 
+For agencies that accredit institutions or programs, and such accreditation establishes 
+eligibility for at least one program or institution to participate in non-HEA programs 
+(602.10(b)): 
+• Submitting a petition for initial or renewal of recognition:  the agency must provide 
+the citation for, and a copy of the specific portion of the authorizing law, regulation or 
+other Federal requirement (which is not subregulatory guidance), stating accreditation 
+by an agency recognized by the Secretary of Education is necessary for an institution or 
+program to participate in the Federal program; and documentation that at least one 
+institution or program does rely on or, once recognition is obtained, will rely on the 
+agency's accreditation to participate or establish eligibility to participate in such a 
+program.  
+ 
+ 
+No additional 
+documentation 
+required 
+ 
+ 
+§ 602.11 - Geographic area of accrediting activities. 
+The agency must demonstrate that it conducts accrediting activities within— 
+(a) A State, if the agency is part of a State government; 
+(b) A region or group of States chosen by the agency in which an agency provides accreditation to a main 
+campus, a branch campus, or an additional location of an institution. An agency whose geographic area 
+includes a State in which a branch campus or additional location is located is not required to also 
+accredit a main campus in that State. An agency whose geographic area includes a State in which only a 
+branch campus or additional location is located is not required to accept an application for accreditation 
+from other institutions in such State; or 
+(c) The United States. 
+  
+In Petition 
+File Review 
+• A list of States in which the agency conducts accreditation activities, including all 
+States where the agency accredits a main campus, a branch campus, or an additional 
+location. The agency should also note any States where it only accredits branch 
+campuses or additional locations and will not consider accrediting main campuses.  
+• A current list of accredited and preaccredited (if applicable) institutions and/or 
+programs (including branch campuses and additional locations).  
+• For agencies that have expanded their geographic area, a list of all institutions or 
+programs that have been accredited/preaccredited within the expanded area and the 
+process under which those institutions or programs were evaluated if differing from 
+other institutions or programs accredited by the agency. 
+o For at least one institution or program accredited or preaccredited by the 
+agency under the expanded geographic area:  
+• Records of 
+accreditation 
+activities reflecting 
+the agency’s 
+published scope. 
+ 
+Page 6 of 37 
+ 
+ 
+In Petition 
+File Review 
+1) the letter of interest or the application from the institution or 
+program in which it states its interest in seeking accreditation or 
+preaccreditation; 
+2) the letter from the agency demonstrating that the application was 
+accepted for review or that the accreditation/preaccreditation 
+review process was commencing;  
+3) the letter from the agency granting accreditation or 
+preaccreditation; 
+4) all files and communication related to the agency’s review of the 
+institution or program, including the application that initiated the 
+accreditation or preaccreditation review process; and  
+5) records of correspondence between the agency and the 
+institution or program regarding the accreditation or 
+preaccreditation process and/or the institution’s or program’s 
+accreditation or preaccreditation status. 
+ 
+§ 602.12 Accrediting experience. 
+(a) An agency seeking initial recognition must demonstrate that it has-- 
+(1) Granted accreditation or preaccreditation prior to submitting an application for recognition— 
+(i) To one or more institutions if it is requesting recognition as an institutional accrediting agency 
+and to one or more programs if it is requesting recognition as a programmatic accrediting 
+agency; 
+(ii) That covers the range of the specific degrees, certificates, institutions, and programs for 
+which it seeks recognition.; and 
+(iii) In the geographic area for which it seeks recognition; and 
+(2) Conducted accrediting activities, including deciding whether to grant or deny accreditation or 
+preaccreditation, for at least two years prior to seeking recognition, unless the agency seeking initial 
+recognition is affiliated with, or is a division of, an already recognized agency.  
+(b) 
+(1) A recognized agency seeking an expansion of its scope of recognition must follow the requirements of 
+§§ 602.31 and 602.32 and demonstrate that it has accreditation or preaccreditation policies in place that 
+meet all the criteria for recognition covering the range of the specific degrees, certificates, institutions, 
+and programs for which it seeks the expansion of scope and has engaged and can show support from 
+relevant constituencies for the expansion. A change to an agency's geographic area of accrediting 
+activities does not constitute an expansion of the agency's scope of recognition, but the agency must 
+notify the Department of, and publicly disclose on the agency's website, any such change.  
+ 
+(2) An agency that cannot demonstrate experience in making accreditation or preaccreditation decisions 
+under the expanded scope at the time of its application or review for an expansion of scope may— 
+(i) If it is an institutional accrediting agency, be limited in the number of institutions to which it 
+may grant accreditation under the expanded scope for a designated period of time; or 
+(ii) If it is a programmatic accrediting agency, be limited in the number of programs to which it 
+may grant accreditation under that expanded scope for a certain period of time; and 
+(iii) Be required to submit a monitoring report regarding accreditation decisions made under the 
+expanded scope. 
+ 
+Page 7 of 37 
+ 
+ 
+In Petition 
+File Review 
+For agencies seeking initial recognition [See § 602.32(b)]:  
+ 
+• A list of all institutions and/or programs that the agency has accredited 
+or preaccredited during the previous five years, including their geographic 
+location, credential levels included in the preaccreditation or 
+accreditation, the dates on which the institutions/programs applied for 
+accreditation/preaccreditation, and the dates on which the 
+institutions/programs received accreditation or preaccreditation, if 
+accreditation or preaccreditation has been awarded. 
+• For at least one program or institution accredited or preaccredited by 
+the agency, the following documents:  
+1) the letter of interest or the application from the institution or 
+program in which it states its interest in seeking accreditation 
+or preaccreditation and will rely on the agency as its link to a 
+Federal program; 
+2) the letter from the agency demonstrating that the application 
+was accepted for review or that the 
+accreditation/preaccreditation review process was 
+commencing;  
+3) the letter from the agency granting accreditation or 
+preaccreditation; 
+4) any site visit reports for the institution or program;  
+5) any special reviews of the institution or program conducted 
+by the agency; and  
+6) all decision letters regarding accreditation/preaccreditation 
+or substantive changes issued by the agency for the 
+institution or program.  
+• For an agency that is affiliated with, or is a division of, an already 
+recognized agency, the requirement for two years of experience does not 
+apply, but the agency must submit documentation of that relationship, 
+including, but not limited to, budgets and contracts between the two 
+parties.  
+• Letters from at least three educators, three accredited (by this agency 
+or another recognized agency) institutions or programs, and, if 
+appropriate, three employers or practitioners, explaining why the letter’s 
+author supports the agency’s application for recognition, which could 
+include the explanation of the role for such an agency and the reasons for 
+their support. 
+ 
+For agencies seeking an expansion of scope (see § 602.32(j)]: 
+ 
+• A list of institutions/programs that the agency has accredited or 
+preaccredited covering the range of the expansion of scope request, if the 
+agency has performed this function outside of its current scope of 
+recognition. If the agency has not already performed this function outside 
+of its scope of recognition, it must provide documentation of the agency’s 
+• Department staff must be able 
+to review additional files of 
+accredited or preaccredited 
+institutions and/or programs, 
+including letters or applications 
+that initiated the accreditation or 
+preaccreditation review process, 
+records of correspondence 
+between the agency and the 
+institution or program regarding 
+the accreditation or 
+preaccreditation process or the 
+institution’s or program’s 
+accreditation or preaccreditation 
+status, and letters from the 
+agency indicating that 
+accreditation or preaccreditation 
+had been granted.  
+ 
+For agencies seeking an 
+expansion of scope:  
+ 
+• Documentation that 
+administrators, practitioners, and 
+educators experienced in 
+instructional delivery in the area 
+of the expansion of scope: 
+o  participated in the 
+development and/or 
+approval of the policies 
+and procedures related 
+to the area of scope 
+expansion and serve on 
+the decision-making 
+body; and 
+o have or will participate 
+on site visit teams for 
+institutions or programs 
+seeking preaccreditation 
+or accreditation under 
+the expansion of scope.  
+ 
+Page 8 of 37 
+ 
+ 
+In Petition 
+File Review 
+standards, policies, or procedures developed and that will be applied by 
+the agency if granted the expansion of scope. 
+• Letters from at least three institution or programs that would seek 
+preaccreditation or accreditation under the expansion of scope. 
+• An explanation of how the agency will expand capacity to support the 
+expansion of scope, if necessary, and how its budget will support the 
+expansion of capacity, if needed. 
+• Documentation on the agency’s plans for expansion, including how 
+many programs or institutions the agency expects to accredit under the 
+expanded scope in the next five years. 
+ 
+For agencies that have changed their geographic area of accrediting 
+activities (see § 602.12(b)(1)): 
+ 
+• A copy of the notification to the Department of the change in 
+geographic area of accrediting activities. 
+• Links to all locations where the agency has publicly disclosed the change 
+in geographic area of accrediting activities. 
+  
+§ 602.14 Purpose and organization. 
+(a) The Secretary recognizes only the following four categories of accrediting agencies: 
+(1) A State agency that— 
+(i) Has as a principal purpose the accrediting of institutions of higher education, higher education 
+programs, or both; and 
+(ii) Has been listed by the Secretary as a nationally recognized accrediting agency on or before 
+October 1, 1991. 
+(2) An accrediting agency that— 
+(i) Has a voluntary membership of institutions of higher education; 
+(ii) Has as a principal purpose the accrediting of institutions of higher education and that 
+accreditation is used to provide a link to Federal HEA programs in accordance with § 602.10; and 
+(iii) Satisfies the “separate and independent” requirements in paragraph (b) of this section. 
+(3) An accrediting agency that— 
+(i) Has a voluntary membership; and 
+(ii) Has as its principal purpose the accrediting of institutions of higher education or programs, 
+and the accreditation it offers is used to provide a link to non-HEA Federal programs in 
+accordance with §602.10. 
+(4) An accrediting agency that, for purposes of determining eligibility for title IV, HEA programs— 
+(i) 
+ 
+(A) Has a voluntary membership of individuals participating in a profession; or 
+(B) Has as its principal purpose the accrediting of programs within institutions that are 
+accredited by another nationally recognized accrediting agency; and 
+(ii) Satisfies the “separate and independent” requirements in paragraph (b) of this section or 
+obtains a waiver of those requirements under paragraph (d) of this section.  
+(b) For purposes of this section, “separate and independent” means that— 
+Page 9 of 37 
+ 
+ 
+(1) The members of the agency's decision-making body, who decide the accreditation or preaccreditation 
+status of institutions or programs, establish the agency's accreditation policies, or both, are not elected 
+or selected by the board or chief executive officer of any related, associated, or affiliated trade 
+association, professional organization, or membership organization and are not staff of the related, 
+associated, or affiliated trade association, professional organization, or membership organization; 
+(2) At least one member of the agency's decision-making body is a representative of the public, and at 
+least one-seventh of the body consists of representatives of the public; 
+(3) The agency has established and implemented guidelines for each member of the decision-making 
+body including guidelines on avoiding conflicts of interest in making decisions; 
+(4) The agency's dues are paid separately from any dues paid to any related, associated, or affiliated 
+trade association or membership organization; and 
+(5) The agency develops and determines its own budget, with no review by or consultation with any 
+other entity or organization. 
+(c) The Secretary considers that any joint use of personnel, services, equipment, or facilities by an agency and a 
+related, associated, or affiliated trade association or membership organization does not violate the “separate 
+and independent” requirements in paragraph (b) of this section if — 
+(1) The agency pays the fair market value for its proportionate share of the joint use; and 
+(2) The joint use does not compromise the independence and confidentiality of the accreditation process. 
+(d) For purposes of paragraph (a)(4) of this section, the Secretary may waive the “separate and independent” 
+requirements in paragraph (b) of this section if the agency demonstrates that— 
+(1) The Secretary listed the agency as a nationally recognized agency on or before October 1, 1991, and 
+has recognized it continuously since that date; 
+(2) The related, associated, or affiliated trade association or membership organization plays no role in 
+making or ratifying either the accrediting or policy decisions of the agency; 
+(3) The agency has sufficient budgetary and administrative autonomy to carry out its accrediting 
+functions independently; 
+(4) The agency provides to the related, associated, or affiliated trade association or membership 
+organization only information it makes available to the public. 
+(e) An agency seeking a waiver of the “separate and independent” requirements under paragraph (d) of this 
+section must apply for the waiver each time the agency seeks recognition or continued recognition. 
+ 
+In Petition 
+File Review 
+• A narrative describing which category the agency seeks 
+recognition or renewal of recognition. The appropriate 
+categories are specified in §§ 602.14(a)(1), 602.14(a)(2), 
+602.14(a)(3) and/or 602.14(a)(4).  
+• By-laws, articles of incorporation and policies, etc. defining 
+the agency’s membership, its principal purposes, whether the 
+programs or institutions it accredits participate in title IV 
+programs, and how it meets the requirements of § 602.10. 
+• The agency‘s standards, policies, and procedures manual(s). 
+ 
+For agencies required to demonstrate compliance with the 
+separate and independent criteria, such as agencies 
+recognized under §§ 602.14(a)(2) and 602.14(a)(4), the 
+following documentation is required: 
+ 
+• Minutes of decision-making body 
+meetings, including the names of members 
+present, meeting agendas, recusals where 
+appropriate from members that have a 
+conflict of interest on one or more issues (if 
+applicable) and written requests from 
+member institutions that raise concerns 
+about conflicts of interest among members 
+of decision-making bodies (if the agency 
+received any such letters) and responses to 
+those letters that describe the resolution to 
+the concern. 
+ 
+For agencies demonstrating compliance 
+with the separate and independent 
+criteria:  
+Page 10 of 37 
+ 
+ 
+In Petition 
+File Review 
+• A list of members of the agency’s decision-making bodies 
+(including its appeals body) describing each member’s current 
+position or role on that body. The list must identify which 
+member(s) represent the public and the terms of service for 
+each individual. 
+• Page numbers of the agency‘s standards, policies, and 
+procedures manual(s) that pinpoint:  (1) the members of the 
+agency's decision-making body and their qualifications; (2) the 
+procedures followed for nominating and electing members of 
+the decision- making body; and (3) the definition of public 
+members and policies that determine what percentage of the 
+decision-making body must be representatives of the public. 
+• A list of all entities the agency considers to be a related, 
+associated, or affiliated trade association or membership 
+organization. 
+• A statement of independence from any related or affiliated 
+trade association, disclosure of any budgetary, supervisory, or 
+decision-making relationship with such organizations, and a 
+description of the agency's policies for establishing and 
+collecting dues separate from dues or membership fees paid to 
+any related trade or professional organization. 
+•Copies of any contracts, MOUs, or agreements between the 
+agency and its parent organization regarding personnel actions, 
+the appointment of members of the agency’s board and 
+decision-making bodies, the financial arrangements that exist 
+between the organizations, if any, and agreements regarding 
+payment for the use of shared space or services. 
+• A description of the process by which the agency establishes 
+and approves its budget and makes financial decisions. 
+• A waiver request for “separate and independent” 
+requirements, if applicable. 
+• Copies of the agency’s approved budgets 
+during the recognition period and meeting 
+minutes documenting when each budget 
+was approved and who was involved in that 
+approval. 
+• Minutes of meetings when decision-
+making body members are nominated and 
+elected. 
+• Correspondence to members of decision-
+making bodies indicating that an individual 
+has been nominated/elected to serve on 
+that body. 
+• Documentation from audited financial 
+statements that the agency is meeting the 
+terms of contractual agreements and is 
+paying market rates for any equipment, 
+space, or staff it shares with the 
+membership or trade organization. 
+ 
+ 
+§ 602.15 Administrative and fiscal responsibilities. 
+The agency must have the administrative and fiscal capability to carry out its accreditation activities in light of its 
+requested scope of recognition. The agency meets this requirement if the agency demonstrates that—  
+(a) The agency has—  
+(1) Adequate administrative staff and financial resources to carry out its accrediting 
+responsibilities;  
+(2) Competent and knowledgeable individuals, qualified by education or experience in their own 
+right and trained by the agency on their responsibilities, as appropriate for their roles, regarding 
+the agency's standards, policies, and procedures, to conduct its on-site evaluations, apply or 
+establish its policies, and make its accrediting and preaccrediting decisions, including, if 
+applicable to the agency's scope, their responsibilities regarding distance education and 
+correspondence courses;  
+Page 11 of 37 
+ 
+ 
+(3) Academic and administrative personnel on its evaluation, policy, and decision-making bodies, 
+if the agency accredits institutions;  
+(4) Educators, practitioners, and/or employers on its evaluation, policy, and decision-making 
+bodies, if the agency accredits programs or single-purpose institutions that prepare students for 
+a specific profession;  
+(5) Representatives of the public, which may include students, on all decision-making bodies; and  
+(6) Clear and effective controls, including guidelines, to prevent or resolve conflicts of interest, or 
+the appearance of conflicts of interest, by the agency's—  
+(i) Board members;  
+(ii) Commissioners;  
+(iii) Evaluation team members;  
+(iv) Consultants;  
+(v) Administrative staff; and  
+(vi) Other agency representatives; and  
+(b) The agency maintains complete and accurate records of—  
+(1) Its last full accreditation or preaccreditation review of each institution or program, including 
+on-site evaluation team reports, the institution's or program's responses to onsite reports, 
+periodic review reports, any reports of special reviews conducted by the agency between regular 
+reviews, and a copy of the institution's or program's most recent self-study; and  
+(2) All decision letters issued by the agency regarding the accreditation and preaccreditation of 
+any institution or program and any substantive changes. 
+ 
+In Petition 
+File Review 
+• Organizational chart with names and position titles, 
+length of time in role, staff departures over the last two 
+years, and open positions. 
+• Resumes, job titles, and job descriptions of senior staff 
+members, including the executive director, chief 
+financial officer, and academic or accreditation directors 
+(or equivalents). 
+• The qualifications and affiliations of all individuals who 
+serve on the decision-making bodies, to include 
+documentation that public representatives meet the 
+Department of Education’s definition for that role. 
+• Documentation on how the agency seeks and selects 
+public members, the criteria used for selection, 
+selectees’ applications, vetting, and the basis for which 
+final decisions are made. 
+• The agency's two most recent annual financial 
+statements. 
+• The agency's two most recent annual budgets. 
+• Total number of accredited programs and institutions, 
+and staff-to-program or staff-to-institution ratio at the 
+end of each year for the previous three years. 
+• List of any site visits, agency decisions, or other 
+reviews that had to be postponed during the prior two 
+years and the reason for the postponement. 
+• Staff resumes or CVs. 
+• Site visitor resumes, CVs, or applications. 
+• Resumes, CVs, or applications for all individuals 
+who serve on decision-making bodies, to include 
+documentation that public representatives meet 
+the Department of Education’s definition for that 
+role. 
+• Documentation of review of letters received 
+from institutions or programs (including those 
+received by the Department and forwarded to the 
+agency) expressing concern 
+regarding the timeliness of agency actions and 
+decisions and its ability to adhere to its published 
+timelines. 
+• Training materials used over the prior two years 
+to educate staff and agency representatives about 
+the agency's standards, policies, and procedures, 
+as well as attendance records and any other 
+documentation of training events. 
+• Signed conflict-of-interest statements for 
+current board members, commissioners, 
+members of site visit teams that participated in 
+visits during the prior two years, consultants, staff 
+and others as appropriate. 
+Page 12 of 37 
+ 
+ 
+In Petition 
+File Review 
+• A roster of all individuals serving on decision-making 
+bodies, the role that each filled, and the policies and 
+procedures related to their selection. 
+• A roster of all individuals who in the past year 
+participated on site visit teams, how many reviews each 
+participated in, with an indication of the specific focus of 
+each member on that team.2 
+• Page numbers for the agency‘s standards, policies, and 
+procedures manual(s) that describe the process for 
+selecting and assigning site visitors during the prior year 
+or, if not applicable, during the most recent recognition 
+period or the period of time the agency was performing 
+accrediting reviews prior to recognition by the Secretary. 
+• A copy of all conflict of interest policies and procedures 
+and the agency’s policies and procedures for avoiding or 
+remedying conflicts of interest among members of its 
+decision-making bodies. 
+• Sample conflict-of-interest form(s) of each type used. 
+• The agency’s record retention policy, which includes 
+where and how documents are stored, secured, and 
+retained. 
+• A written explanation for how the agency’s staff-to-
+program or staff-to-institution member ratio is sufficient 
+to meet the needs of its institutions or programs and 
+perform its function thoroughly and in a timely manner, 
+and if not, what the agency’s plan is to modify its staffing 
+to meet those needs. 
+ 
+**If your agency accredits both institutions (to include 
+freestanding, single-purpose) and programs and both are 
+included with the agency’s scope of recognition, your 
+agency will be required to respond to both §§ 
+602.15(a)(3) and 602.15(a)(4)** 
+• Documentation of instances (such as meeting 
+minutes or correspondence with an institution or 
+program regarding concerns about a potential site 
+visitor, etc.) in which individuals recused 
+themselves from activities or decisions based on a 
+conflict-of-interest concern, if such instances 
+exist. 
+• Formal complaints relating to conflicts of 
+interest, if they exist, and an explanation of the 
+measures the agency took to resolve the conflict 
+or confirm that none exists. 
+• Department staff will spot check files to ensure 
+that adequate records are being maintained for 
+each accredited or preaccredited institution or 
+program, as described in this section. 
+ 
+ 
+§ 602.16 Accreditation and preaccreditation standards. 
+(a) The agency must demonstrate that it has standards for accreditation, and preaccreditation, if offered, that 
+are sufficiently rigorous to ensure that the agency is a reliable authority regarding the quality of the education or 
+training provided by the institutions or programs it accredits. The agency meets this requirement if the following 
+conditions are met:  
+ 
+2 Note: The Department has recently issued guidance in connection with the COVID-19 national emergency approving the 
+temporary use of telecommunications technology to conduct institution or program site visits and has provided the 
+temporary opportunity for agencies to add new policies to support virtual site visits with approval of their decision-making 
+bodies. At this time, agencies should continue to comply with the COVID-19 guidance found on the Department's website at 
+https://www.ed.gov/coronavirus/program-information#highered. 
+Page 13 of 37 
+ 
+ 
+(1) The agency’s accreditation standards must set forth clear expectations for the institutions or 
+programs it accredits in the following areas:  
+(i) Success with respect to student achievement in relation to the institution's mission, which may 
+include different standards for different institutions or programs, as established by the 
+institution, including, as appropriate, consideration of State licensing examinations, course 
+completion, and job placement rates.  
+ 
+In Petition 
+File Review 
+• Page numbers for the agency‘s standards, policies, 
+and procedures manual(s) that describe the 
+standards set by the agency for measuring student 
+achievement. These pages must describe the way 
+the agency evaluates adherence to those 
+requirements and the way it enforces compliance. 
+ • A narrative on how the agency determined that 
+its student achievement standards are sufficiently 
+rigorous to ensure that the agency is a reliable 
+authority regarding the quality of education 
+provided by the institutions or programs it accredits.  
+• A narrative (and related exhibits) that explain how 
+the agency reviews student achievement outcomes 
+within the accreditation review process. 
+• A copy of a self-study from at least one institution 
+selected by Department staff, with page numbers 
+identifying the sections relevant to these criteria. If 
+that self-study does not demonstrate non-
+compliance in this area, the agency will provide one 
+that does, with page numbers identifying the 
+sections relevant to these criteria, to demonstrate 
+agency review and action when an institution does 
+not meet the agency’s standards. 
+ • A copy of the site visit report and decision letter 
+from the same institution. 
+ 
+**The selection of an institution by the Department 
+for inclusion within the petition is limited to those 
+agencies that accredit institutions for Title IV 
+purposes. All other agencies will choose their own 
+example for submission.** 
+ 
+• A sample of self-studies or relevant portions of self-
+studies that could include any institution or program 
+that underwent an accreditation or preaccreditation 
+review by the agency during the recognition period. 
+Department staff will select and review at least three 
+self-studies (or fewer if there were fewer reviews 
+during the recognition period), unless the agency has 
+performed accreditation or preaccreditation reviews 
+for more than 50 institutions or programs during the 
+recognition period, in which case Department staff will 
+select up to an additional three self-studies for review. 
+If no institutions or programs underwent accreditation 
+or preaccreditation review during the recognition 
+period, the agency’s compliance evaluation will be 
+limited to its standards, policies, and procedures 
+regarding self-studies. 
+• Site visit reports and decision letters from the same 
+institutions or programs whose self-studies were 
+selected for review. 
+ 
+ 
+(ii) Curricula.  
+(iii) Faculty.  
+(iv) Facilities, equipment, and supplies.  
+(v) Fiscal and administrative capacity as appropriate to the specified scale of operations.  
+(vi) Student support services.  
+Page 14 of 37 
+ 
+ 
+(vii) Recruiting and admissions practices, academic calendars, catalogs, publications, grading, 
+and advertising.  
+(viii) Measures of program length and the objectives of the degrees or credentials offered.  
+(ix) Record of student complaints received by, or available to, the agency.  
+(x) Record of compliance with the institution's program responsibilities under title IV of the Act, 
+based on the most recent student loan default rate data provided by the Secretary, the results of 
+financial or compliance audits, program reviews, and any other information that the Secretary 
+may provide to the agency; and  
+ 
+In Petition 
+File Review 
+• Page numbers for the agency‘s standards, policies, and 
+procedures manual(s) relevant to these criteria. 
+• A narrative explaining the agency's expectations for an 
+institution’s or program’s review of its performance against these 
+standards as part of the institution's or program’s self-study 
+process. 
+• A narrative that explains how site visit teams review the 
+institution’s or program’s performance against each type of 
+standard. 
+• A self-study from one institution selected by Department staff 
+related to the agency’s review of the institution’s or program’s 
+performance against these standards. If that self-study does not 
+demonstrate non-compliance in this area, the agency will provide 
+one that does.  
+• For each of the standards in 602.16(a)(1)(ii)-(x), identify three 
+institutions or programs which the agency found to be out of 
+compliance during the recognition period, to assist the 
+Department in selecting files for file review. If no institutions or 
+programs were found out of compliance on any particular 
+standard, please indicate that in your petition. If fewer than three 
+institutions or programs were found out of compliance, identify 
+those institutions or programs. 
+• A copy of the site visit report and decision letter from the same 
+institution. 
+ 
+**The selection of an institution by the Department for inclusion 
+within the petition is limited to those agencies that accredit 
+institutions for Title IV purposes. All other agencies will choose 
+their own example for submission.** 
+• Self-studies as described in the 
+Handbook under 602.16(a)(1)(i). 
+• Site visit reports and decision letters 
+from the institutions or programs whose 
+self-studies were selected for review. 
+For each of the institutions or programs 
+selected by the Department for its 
+review of agency action relating to non-
+compliance with the standards in 
+602.16(a)(1)(ii)-(x), self-studies, site visit 
+reports, and decision letters  
+• Records that document agency 
+reviews of the most recent student loan 
+default rate data provided by the 
+Secretary, the results of financial or 
+compliance audits, program reviews, 
+and any other information that the 
+Secretary may provide to the agency, as 
+appropriate. 
+• A review of other records, based on 
+complaints received by the Department 
+or other knowledge held by the 
+Secretary, regarding program review 
+findings, or Department data indicating 
+an institution is high-risk. 
+ 
+ 
+(2) The agency's preaccreditation standards, if offered, must--  
+ (i) Be appropriately related to the agency's accreditation standards; and  
+ (ii) Not permit the institution or program to hold preaccreditation status for more than five 
+years before a final accrediting action is made.  
+ 
+Page 15 of 37 
+ 
+ 
+In Petition 
+File Review 
+• A copy of the agency’s preaccreditation standards, if applicable. 
+• A copy of a self-study from one institution or program seeking or 
+in preaccreditation status during the period of recognition, if 
+applicable. 
+• A copy of the site visit report and decision letter from the same 
+institution or program. 
+• A list of all programs or institutions granted preaccreditation 
+during the recognition period and any actions on accreditation and 
+their relevant dates for each. 
+• Additional samples of self-studies, site 
+visit reports, and decision letters from 
+institutions or programs seeking or 
+granted preaccreditation status, if 
+applicable.  
+ 
+ 
+(b) Agencies are not required to apply the standards described in paragraph (a)(1)(x) of this section to 
+institutions that do not participate in title IV, HEA programs. Under such circumstance, the agency’s 
+grant of accreditation or preaccreditation must specify that the grant, by request of the institution, does 
+not include participation by the institution in title IV, HEA programs.   
+(c) If the agency only accredits programs and does not serve as an institutional accrediting agency for 
+any of those programs, its accreditation standards must address the areas in paragraph (a)(1) of this 
+section in terms of the type and level of the program rather than in terms of the institution.  
+(d) 
+(1) If the agency has or seeks to include within its scope of recognition the evaluation of the 
+quality of institutions or programs offering distance education, correspondence courses, or direct 
+assessment education, the agency's standards must effectively address the quality of an 
+institution's distance education, correspondence courses, or direct assessment education in the 
+areas identified in paragraph (a)(1) of this section.  
+(2) The agency is not required to have separate standards, procedures, or policies for the 
+evaluation of distance education or correspondence courses.  
+(e) If none of the institutions an agency accredits participates in any title IV, HEA program, or if the 
+agency only accredits programs within institutions that are accredited by a nationally recognized 
+institutional accrediting agency, the agency is not required to have the accreditation standards described 
+in paragraphs (a)(1)(viii) and (a)(1)(x) of this section.  
+(f) An agency that has established and applies the standards in paragraph (a) of this section may 
+establish any additional accreditation standards it deems appropriate.  
+(g) Nothing in paragraph (a) of this section restricts--  
+(1) An accrediting agency from setting, with the involvement of its members, and applying 
+accreditation standards for or to institutions or programs that seek review by the agency;  
+(2) An institution from developing and using institutional standards to show its success with 
+respect to student achievement, which achievement may be considered as part of any 
+accreditation review; or  
+(3) Agencies from having separate standards regarding an institution’s or a program’s process 
+for approving curriculum to enable programs to more effectively meet the recommendations of-  
+ (i) Industry advisory boards that include employers who hire program graduates;  
+ (ii) Widely recognized industry standards and organizations;  
+ (iii) Credentialing or other occupational registration or licensure; or  
+ (iv) Employers in a given field or occupation, in making hiring decisions.  
+(4) Agencies from having separate faculty standards for instructors teaching courses within a 
+dual or concurrent enrollment program, as defined in 20 U.S.C. 7801, or career and technical 
+Page 16 of 37 
+ 
+ 
+education courses, as long as the instructors, in the agency’s judgment, are qualified by 
+education or work experience for that role.  
+ 
+In Petition 
+File Review 
+• Narrative description of the agency's review of distance education, 
+correspondence courses, and/or direct assessment programs, if applicable.3 
+• Page numbers for the agency‘s standards, policies, and procedures manual(s) 
+related to the review of distance education, correspondence courses, and/or 
+direct assessment programs, if applicable. 
+• A copy of a self-study from one institution or program reviewed for distance 
+education, correspondence courses, and direct assessment programs, if 
+applicable. 
+• A copy of the site visit report and decision letter from the same institution or 
+program, if applicable. 
+• A list of institutions or programs that have been approved to offer distance 
+education, correspondence courses and/or direct assessment programs during 
+the recognition period, if applicable. 
+• A list of institutions preaccredited or accredited by the agency that, by 
+request of the institutions, do not have participation in title IV, HEA programs 
+included in their scope of accreditation, if applicable under § 602.16(b).  
+• Page numbers for the agency’s standards, policies, and procedures manual(s) 
+related to either separate standards for approving curriculum or separate 
+faculty standards for instructors teaching courses within a dual or concurrent 
+enrollment program. Additionally, sample documentation of implementation of 
+these separate standards, if applicable.  
+• Narrative and documentation of the agency’s process for developing and 
+implementing either separate standards for approving curriculum or separate 
+faculty standards for dual or concurrent enrollment programs, if applicable. 
+ 
+ 
+• A self-study from at least 
+three institutions or 
+programs each that offer 
+distance education, 
+correspondence courses, 
+and/or direct assessment 
+programs, if applicable.  
+• A copy of the site visit 
+reports and decision letters 
+from the same institutions 
+or programs, if applicable. 
+• Any correspondence 
+relevant to an institution 
+requesting to receive a 
+scope of accreditation that 
+does not include 
+participation by the 
+institution in title IV HEA 
+programs, if applicable. 
+ 
+ 
+§ 602.17 Application of standards in reaching an accrediting decision. 
+ 
+3 Note: On August 31, 2020, the Department published notice in the Federal Register (85 FR 54148) which rescinded the 
+Dear Colleague Letter “Institutional Accreditation for Distance Learning Programs” (06-17), which had been interpreted to 
+mean that, if an institution does not offer more than 50 percent of an educational program via distance education, the 
+institution’s accrediting agency is not required to expand its scope of recognition to include distance education. As clarified 
+in our Electronic Announcement (EA) on January 19, 2021 (EA ID:OPE-21-06), agencies should be aware that, pursuant to 34 
+CFR § 668.8(m), a distance education program is not eligible for Title IV participation unless the institution has been 
+evaluated and accredited to offer distance education programs by a recognized accrediting agency that has distance 
+education within its scope of recognition. This requirement applies to the offering of any portion of a program offered via 
+distance education. Once the current COVID-19 pandemic flexibilities expire, an accrediting agency will be required to have 
+distance education included in its scope of recognition if it accredits an institution that offers any portion of a program via 
+distance education. Accrediting agencies should work with institutions they accredit or plan to accredit to communicate the 
+agency’s requirements for evaluating whether the institution is capable of effective delivery of distance education 
+programs. More information is available in our January 19, 2021 EA. 
+Page 17 of 37 
+ 
+ 
+The agency must have effective mechanisms for evaluating an institution’s or program’s compliance with the 
+agency’s standards before reaching a decision to accredit or preaccredit the institution or program. The agency 
+meets this requirement if the agency demonstrates that it--  
+(a) Evaluates whether an institution or program-–  
+(1) Maintains clearly specified educational objectives that are consistent with its mission and 
+appropriate in light of the degrees or certificates awarded;  
+(2) Is successful in achieving its stated objectives at both the institutional and program levels; 
+and  
+(3) Maintains requirements that at least conform to commonly accepted academic standards, or 
+the equivalent, including pilot programs in § 602.18(b);  
+(b) Requires the institution or program to engage in a self-study process that assesses the institution's or 
+program's education quality and success in meeting its mission and objectives, highlights opportunities 
+for improvement, and includes a plan for making those improvements;  
+(c) Conducts at least one on-site review of the institution or program during which it obtains sufficient 
+information to determine if the institution or program complies with the agency's standards;  
+(d) Allows the institution or program the opportunity to respond in writing to the report of the on-site 
+review;  
+(e) Conducts its own analysis of the self-study and supporting documentation furnished by the institution 
+or program, the report of the on-site review, the institution's or program's response to the report, and 
+any other information substantiated by the agency from other sources to determine whether the 
+institution or program complies with the agency's standards;  
+(f) Provides the institution or program with a detailed written report that assesses the institution's or 
+program's compliance with the agency's standards, including areas needing improvement, and the 
+institution's or program's performance with respect to student achievement;  
+(g) Requires institutions to have processes in place through which the institution establishes that a 
+student who registers in any course offered via distance education or correspondence is the same 
+student who academically engages in the course or program; and  
+(h) Makes clear in writing that institutions must use processes that protect student privacy and notify 
+students of any projected additional student charges associated with the verification of student identity 
+at the time of registration or enrollment.  
+ 
+In Petition 
+File Review 
+• Page numbers for the agency‘s standards, policies, and procedures manual(s) 
+relevant to this section.  
+• Requirements for the preparation of self-studies, with a focus on the criteria 
+listed in 602.16(a) for institutions and/or programs. A copy of the self-study 
+review, site visit report, institution/program responses, decision letter, appeals 
+and appeal results (where applicable) from at least one accreditation or 
+preaccreditation review, selected in advance by Department staff and based on 
+the list of upcoming reviews and decisions provided to the Department at the 
+beginning of the recognition review process.  
+• The response, if any, provided by the institution or program to those site visit 
+reports.  
+• Agendas from all decision-making body meetings for the prior two years.  
+• If applicable, policies and procedures related to how the agency reviews 
+student identity verification for distance education and/or correspondence 
+courses, and agency requirements related to student privacy protection and any 
+• The site visit reports, 
+responses, decision 
+letters, and related 
+materials associated with 
+the self-studies selected 
+by Department staff.  
+• Documentation of 
+training on self-studies 
+provided to institutions 
+and/or programs.  
+• Minutes from decision-
+making body meetings for 
+the prior year for 
+comprehensive 
+accreditation reviews. 
+Page 18 of 37 
+ 
+ 
+In Petition 
+File Review 
+additional costs to students associated with the verification of student identity 
+for distance education and/or correspondence courses.  
+ 
+**The selection of an institution by the Department for inclusion within the 
+petition is limited to those agencies that accredit institutions for Title IV 
+purposes. All other agencies will choose their own example for submission.** 
+ 
+ 
+§ 602.18 Ensuring consistency in decision-making. 
+(a) The agency must consistently apply and enforce standards that respect the stated mission of the 
+institution, including religious mission, and that ensure that the education or training offered by an 
+institution or program, including any offered through distance education, correspondence courses, or 
+direct assessment education is of sufficient quality to achieve its stated objective for the duration of any 
+accreditation or preaccreditation period.  
+(b) The agency meets the requirement in paragraph (a) of this section if the agency—  
+(1) Has written specification of the requirements for accreditation and preaccreditation that 
+include clear standards for an institution or program to be accredited or preaccredited;  
+(2) Has effective controls against the inconsistent application of the agency's standards;  
+(3) Bases decisions regarding accreditation and preaccreditation on the agency's published 
+standards and does not use as a negative factor the institution's religious mission-based policies, 
+decisions, and practices in the areas covered by § 602.16(a)(1)(ii), (iii), (iv), (vi), and (vii) provided, 
+however, that the agency may require that the institution's or program's curricula include all 
+core components required by the agency;  
+(4) Has a reasonable basis for determining that the information the agency relies on for making 
+accrediting decisions is accurate;  
+(5) Provides the institution or program with a detailed written report that clearly identifies any 
+deficiencies in the institution's or program's compliance with the agency's standards; and  
+(6) Publishes any policies for retroactive application of an accreditation decision, which must not 
+provide for an effective date that predates either—  
+(i) An earlier denial by the agency of accreditation or preaccreditation to the institution 
+or program; or  
+(ii) The agency's formal approval of the institution or program for consideration in the 
+agency's accreditation or preaccreditation process.  
+(c) Nothing in this part prohibits an agency, when special circumstances exist, to include innovative 
+program delivery approaches or, when an undue hardship on students occurs, from applying equivalent 
+written standards, policies, and procedures that provide alternative means of satisfying one or more of 
+the requirements set forth in 34 CFR 602.16, 602.17, 602.19, 602.20, 602.22, and 602.24, as compared 
+with written standards, policies, and procedures the agency ordinarily applies, if—  
+(1) The alternative standards, policies, and procedures, and the selection of institutions or 
+programs to which they will be applied, are approved by the agency's decision-making body and 
+otherwise meet the intent of the agency's expectations and requirements;  
+(2) The agency sets and applies equivalent goals and metrics for assessing the performance of 
+institutions or programs;  
+(3) The agency's process for establishing and applying the alternative standards, policies, and 
+procedures is set forth in its published accreditation manuals; and  
+Page 19 of 37 
+ 
+ 
+(4) The agency requires institutions or programs seeking the application of alternative standards 
+to demonstrate the need for an alternative assessment approach, that students will receive 
+equivalent benefit, and that students will not be harmed through such application.  
+(d) Nothing in this part prohibits an agency from permitting the institution or program to be out of 
+compliance with one or more of its standards, policies, and procedures adopted in satisfaction of §§ 
+602.16, 602.17, 602.19, 602.20, 602.22, and 602.24 for a period of time, as determined by the agency 
+annually, not to exceed three years unless the agency determines there is good cause to extend the 
+period of time, and if—  
+(1) The agency and the institution or program can show that the circumstances requiring the 
+period of noncompliance are beyond the institution's or program's control, such as—  
+ (i) A natural disaster or other catastrophic event significantly impacting an institution's 
+or program's operations;  
+ (ii) Accepting students from another institution that is implementing a teach-out or 
+closing;  
+(iii) Significant and documented local or national economic changes, such as an 
+economic recession or closure of a large local employer;  
+(iv) Changes relating to State licensure requirements;  
+(v) The normal application of the agency's standards creates an undue hardship on 
+students; or  
+(vi) Instructors who do not meet the agency's typical faculty standards, but who are 
+otherwise qualified by education or work experience, to teach courses within a dual or 
+concurrent enrollment program, as defined in 20 U.S.C. 7801, or career and technical 
+education courses;  
+(2) The grant of the period of noncompliance is approved by the agency's decision-making body;  
+(3) The agency projects that the institution or program has the resources necessary to achieve 
+compliance with the standard, policy, or procedure postponed within the time allotted; and  
+(4) The institution or program demonstrates to the satisfaction of the agency that the period of 
+noncompliance will not—  
+ (i) Contribute to the cost of the program to the student without the student's consent;  
+ (ii) Create any undue hardship on, or harm to, students; or  
+ (iii) Compromise the program's academic quality.  
+ 
+In Petition 
+File Review 
+• Page numbers for the agency‘s standards, policies, and 
+procedures manual(s) that are relevant to these criteria, including 
+sections relevant to consistency in decision-making, retroactive 
+accreditation decisions, innovative program delivery, alternative or 
+equivalent standards, policies or procedures, and good cause 
+extensions under this section.  
+• Responses to any complaints provided by the Department 
+regarding inequitable application of standards. 
+• An explanation for instances in which an institution or program 
+may need to revise its standards or obtain permission from the 
+agency’s decision-making body for one or more standards as a 
+result of circumstances beyond its control, such as local or national 
+unemployment rates, changes in a state’s licensure requirements, 
+or the loss of a major employer in the local area, if applicable. In 
+• Decision letters, meeting minutes, 
+and any additional guidance 
+documents or templates (if applicable) 
+used to ensure consistency in decision-
+making, including guidance on distance 
+education, correspondence courses 
+and/or direct assessment programs, if 
+applicable.  
+• Meeting minutes from decision-
+making body meetings, including 
+appeals body meetings and subsequent 
+decisions if the appeals body is not the 
+final decision-making body for appeals.  
+Page 20 of 37 
+ 
+ 
+In Petition 
+File Review 
+addition, all documentation about how such permissions will be 
+communicated to current and prospective students. 
+• A list of institutions or programs that received permission to be 
+out of compliance with standards, for a period not to exceed three 
+years, during the period of recognition and the reason for 
+permitting the non-compliance. 
+• Documentation of implementation of one good cause extension 
+under the regulatory requirements of this section related to specific 
+exceptions noted in § 602.18(d), including relevant sample self-
+studies, site visit reports, decision letters and other documentation, 
+if applicable.  
+• A list of institutions or programs to which retroactive 
+accreditation decisions were applied during the period of 
+recognition. 
+• One example self-study, site visit report, and/or decision letter 
+where policies or procedures related to retroactive accreditation 
+decisions have been applied, if applicable.  
+• One example self-study, site visit report, and/or decision letter 
+related to innovative program delivery and/or alternative 
+standards, if applicable.  
+• A list of programs or institutions that the agency has determined 
+are using innovative program delivery approaches and/or that were 
+assessed under alternative standards, policies, and procedures, if 
+applicable, during the period of recognition.  
+ 
+• Complaints received from institutions 
+or programs regarding inconsistent 
+treatment of institutions or programs, 
+if applicable. 
+• Additional self-studies, site visit 
+reports, and/or decision letters where 
+policies or procedures related to good-
+cause extensions under this section, 
+retroactive accreditation decisions, 
+determinations of innovative program 
+delivery, or alternative standards have 
+been applied, if applicable. 
+• Documentation of the 
+implementation of a good cause 
+extension granted to an institution or 
+program under this section, and/or 
+alternative standards applied to an 
+institution or program, if applicable. 
+ 
+ 
+§ 602.19 Monitoring and reevaluation of accredited institutions and programs. 
+(a) The agency must reevaluate, at regularly established intervals, the institutions or programs it has 
+accredited or preaccredited.  
+(b) The agency must demonstrate it has, and effectively applies, monitoring and evaluation approaches 
+that enable the agency to identify problems with an institution's or program's continued compliance with 
+agency standards and that take into account institutional or program strengths and stability. These 
+approaches must include periodic reports, and collection and analysis of key data and indicators, 
+identified by the agency, including, but not limited to, fiscal information and measures of student 
+achievement, consistent with the provisions of § 602.16(g). This provision does not require institutions or 
+programs to provide annual reports on each specific accreditation criterion.  
+(c) Each agency must monitor overall growth of the institutions or programs it accredits and, at least 
+annually, collect head-count enrollment data from those institutions or programs.  
+(d) Institutional accrediting agencies must monitor the growth of programs at institutions experiencing 
+significant enrollment growth, as reasonably defined by the agency.  
+(e) Any agency that has notified the Secretary of a change in its scope in accordance with § 602.27(a) 
+must monitor the headcount enrollment of each institution it has accredited that offers distance 
+education or correspondence courses. The Secretary will require a review, at the next meeting of the 
+National Advisory Committee on Institutional Quality and Integrity, of any change in scope undertaken 
+by an agency if the enrollment of an institution that offers distance education or correspondence courses 
+that is accredited by such agency increases by 50 percent or more within any one institutional fiscal year. 
+Page 21 of 37 
+ 
+ 
+If any such institution has experienced an increase in head-count enrollment of 50 percent or more within 
+one institutional fiscal year, the agency must report that information to the Secretary within 30 days of 
+acquiring such data.  
+ 
+In Petition 
+File Review 
+• Page numbers for the agency‘s standards, policies and 
+procedures manual(s) relevant to these criteria, including 
+those that document the procedures for monitoring and 
+reevaluation of accredited or preaccredited institutions 
+and programs.  
+• A description of monitoring and evaluation approaches 
+that enable the agency to identify problems with an 
+institution's or program's continued compliance with 
+agency standards with respect to the criteria in § 
+602.16(a)(1), including with respect to student 
+achievement. 
+• A copy of the agency’s annual report or other periodic 
+reports and collection/analysis of key data and indicators 
+identified by the agency including, but not limited to, 
+fiscal information and measures of student achievement. 
+• A description of how the agency uses its annual report 
+or other periodic reports and collection/analysis of key 
+data and indicators in monitoring and evaluation. 
+• Copies of notifications to the Secretary for institutions 
+that have experienced an increase in headcount 
+enrollment of 50 percent or more within one institutional 
+fiscal year, if applicable.  
+• A list of the institutions or programs that have met the 
+agency's definition of significant growth, if applicable, and 
+documentation demonstrating the agency's actions and 
+response to institutions experiencing significant 
+enrollment growth. 
+• Annual reports or other evaluation 
+mechanisms the agency uses to monitor 
+continued compliance of its institutions and/or 
+programs. 
+• Annual reports or other reporting mechanisms 
+the agency uses to monitor headcount at 
+institutions and notations, if applicable, of 
+institutions that have grown by 50 percent or 
+more. 
+• Examples of the agency’s responses to 
+institutions’ or programs’ annual reports or other 
+monitoring or evaluation approaches.  
+• Meeting minutes or other documents that 
+verify institution or program annual reports (or 
+other monitoring) have been reviewed and 
+approved, or that the agency has taken 
+appropriate action to remedy deficiencies.  
+ 
+ 
+§ 602.20 Enforcement of standards. 
+(a) If the agency's review of an institution or program under any standard indicates that the institution or 
+program is not in compliance with that standard, the agency must—  
+(1) Follow its written policy for notifying the institution or program of the finding of 
+noncompliance;  
+(2) Provide the institution or program with a written timeline for coming into compliance that is 
+reasonable, as determined by the agency's decision-making body, based on the nature of the 
+finding, the stated mission, and educational objectives of the institution or program. The timeline 
+may include intermediate checkpoints on the way to full compliance and must not exceed the 
+lesser of four years or 150 percent of the—  
+ (i) Length of the program in the case of a programmatic accrediting agency; or  
+Page 22 of 37 
+ 
+ 
+ (ii) Length of the longest program at the institution in the case of an institutional 
+accrediting agency;  
+(3) Follow its written policies and procedures for granting a good cause extension that may 
+exceed the standard timeframe described in paragraph (a)(2) of this section when such an 
+extension is determined by the agency to be warranted; and  
+(4) Have a written policy to evaluate and approve or disapprove monitoring or compliance 
+reports it requires, provide ongoing monitoring, if warranted, and evaluate an institution's or 
+program's progress in resolving the finding of noncompliance.  
+(b) Notwithstanding paragraph (a) of this section, the agency must have a policy for taking an immediate 
+adverse action, and take such action, when the agency has determined that such action is warranted.  
+(c) If the institution or program does not bring itself into compliance within the period specified in 
+paragraph (a) of this section, the agency must take adverse action against the institution or program, 
+but may maintain the institution's or program's accreditation or preaccreditation until the institution or 
+program has had reasonable time to complete the activities in its teach-out plan or to fulfill the 
+obligations of any teach-out agreement to assist students in transferring or completing their programs.  
+(d) An agency that accredits institutions may limit the adverse or other action to particular programs 
+that are offered by the institution or to particular additional locations of an institution, without 
+necessarily taking action against the entire institution and all of its programs, provided the 
+noncompliance was limited to that particular program or location.  
+(e) All adverse actions taken under this subpart are subject to the arbitration requirements in 20 U.S.C. 
+1099b(e).  
+(f) An agency is not responsible for enforcing requirements in 34 CFR 668.14, 668.15, 668.16, 668.41, or 
+668.46, but if, in the course of an agency's work, it identifies instances or potential instances of 
+noncompliance with any of these requirements, it must notify the Department.  
+(g) The Secretary may not require an agency to take action against an institution or program that does 
+not participate in any title IV, HEA or other Federal program as a result of a requirement specified in this 
+part.  
+ 
+In Petition 
+File Review 
+• Page numbers for the agency‘s standards, policies, and 
+procedures manual(s) relevant to enforcement of standards, to 
+include timelines to return to compliance, policies on the review 
+of monitoring and/or compliance reports and good cause 
+extensions. 
+• A list of institutions or programs against which the agency has 
+taken an adverse, probation, show cause, or an equivalent 
+action during the recognition period, if applicable, and if so, the 
+length of longest program at the institution or the length of the 
+program, for a programmatic agency, the action taken, the date 
+the action was taken, communication with the institution or 
+program, including the written timeline for coming into 
+compliance, and any resolution or subsequent final action.  
+• Review of at least three (or fewer if the 
+agency did not take action against three 
+programs or institutions) examples of the 
+agency’s adverse actions taken during the 
+recognition period, including all relevant 
+correspondence and decision letters 
+leading up to the adverse action.  
+ 
+ 
+§ 602.21 Review of standards. 
+Page 23 of 37 
+ 
+ 
+(a) The agency must maintain a comprehensive systematic program of review that involves all relevant 
+constituencies and that demonstrates that its standards are adequate to evaluate the quality of the 
+education or training provided by the institutions and programs it accredits and relevant to the 
+educational or training needs of students.  
+(b) The agency determines the specific procedures it follows in evaluating its standards, but the agency 
+must ensure that its program of review-- 
+(1) Is comprehensive;  
+(2) Occurs at regular, yet reasonable, intervals or on an ongoing basis; 
+(3) Examines each of the agency's standards and the standards as a whole; and 
+(4) Involves all of the agency's relevant constituencies in the review and affords them a 
+meaningful opportunity to provide input into the review.  
+(c) If the agency determines, at any point during its systematic program of review, that it needs to make 
+changes to its standards, the agency must initiate action within 12 months to make the changes and 
+must complete that action within a reasonable period of time.  
+(d) Before finalizing any changes to its standards, the agency must—  
+(1) Provide notice to all of the agency's relevant constituencies, and other parties who have 
+made their interest known to the agency, of the changes the agency proposes to make;  
+(2) Give the constituencies and other interested parties adequate opportunity to comment on the 
+proposed changes; and  
+(3) Take into account and be responsive to any comments on the proposed changes submitted 
+timely by the relevant constituencies and other interested parties.  
+ 
+In Petition 
+File Review 
+• Page numbers of the agency’s standards, policies and 
+procedures manual(s) related to the agency’s review of 
+standards. 
+• Redline versions of standards or other documents that 
+identify the standards that have been updated since the last 
+recognition review. 
+• Narrative description of the most recent systematic 
+program of review. 
+• Sample of notices to relevant constituencies of review of 
+standards. 
+• Review of comments received by relevant 
+constituencies regarding comprehensive 
+standards reviews or updates. 
+• Minutes of meetings in which new 
+standards were developed, reviewed, and 
+approved by the decision-making body, 
+board, or other related body under the 
+agency’s comprehensive standard review 
+process. 
+ 
+ 
+ 
+§ 602.22 Substantive changes and other reporting requirements.  
+(a) 
+(1) If the agency accredits institutions, it must maintain adequate substantive change policies 
+that ensure that any substantive change, as defined in this section, after the agency has 
+accredited or preaccredited the institution does not adversely affect the capacity of the 
+institution to continue to meet the agency's standards. The agency meets this requirement if—  
+(i) The agency requires the institution to obtain the agency's approval of the substantive 
+change before the agency includes the change in the scope of accreditation or 
+preaccreditation it previously granted to the institution; and  
+(ii) The agency's definition of substantive change covers high-impact, high-risk changes, 
+including at least the following:  
+Page 24 of 37 
+ 
+ 
+(A) Any substantial change in the established mission or objectives of the 
+institution or its programs.  
+(B) Any change in the legal status, form of control, or ownership of the 
+institution.  
+(C) The addition of programs that represent a significant departure from the 
+existing offerings or educational programs, or method of delivery, from those 
+that were offered or used when the agency last evaluated the institution.  
+(D) The addition of graduate programs by an institution that previously offered 
+only undergraduate programs or certificates.  
+(E) A change in the way an institution measures student progress, including 
+whether the institution measures progress in clock hours or credit-hours, 
+semesters, trimesters, or quarters, or uses time-based or non-time-based 
+methods.  
+(F) A substantial increase in the number of clock hours or credit hours awarded, 
+or an increase in the level of credential awarded, for successful completion of 
+one or more programs.  
+(G) The acquisition of any other institution or any program or location of another 
+institution.  
+(H) The addition of a permanent location at a site at which the institution is 
+conducting a teach-out for students of another institution that has ceased 
+operating before all students have completed their program of study.  
+(I) The addition of a new location or branch campus, except as provided in 
+paragraph (c) of this section. The agency's review must include assessment of 
+the institution's fiscal and administrative capability to operate the location or 
+branch campus, the regular evaluation of locations, and verification of the 
+following:  
+ (1) Academic control is clearly identified by the institution.  
+ (2) The institution has adequate faculty, facilities, resources, and 
+academic and student support systems in place.  
+ (3) The institution is financially stable.  
+ (4) The institution had engaged in long-range planning for expansion.  
+(J) Entering into a written arrangement under 34 CFR 668.5 under which an 
+institution or organization not certified to participate in the title IV, HEA 
+programs offers more than 25 and but less than 50 percent of one or more of the 
+accredited institution's educational programs.  
+(K) Addition of each direct assessment program.  
+(2) 
+(i) For substantive changes under only paragraph (a)(1)(ii)(C), (E), (F), (H), or (J) of this 
+section, the agency's decision-making body may designate agency senior staff to 
+approve or disapprove the request in a timely, fair, and equitable manner; and  
+(ii) In the case of a request under paragraph (a)(1)(ii)(J) of this section, the agency must 
+make a final decision within 90 days of receipt of a materially complete request, unless 
+the agency or its staff determine significant circumstances related to the substantive 
+change require a review by the agency's decision-making body to occur within 180 days.  
+(b) Institutions that have been placed on probation or equivalent status, have been subject to negative 
+action by the agency over the prior three academic years, or are under a provisional certification, as 
+provided in 34 CFR 668.13, must receive prior approval for the following additional changes (all other 
+institutions must report these changes within 30 days to their accrediting agency):  
+Page 25 of 37 
+ 
+ 
+(1) A change in an existing program's method of delivery.  
+(2) An aggregate change of 25 percent or more of the clock hours, credit hours, or content of a 
+program since the agency's most recent accreditation review.  
+(3) The development of customized pathways or abbreviated or modified courses or programs 
+to—  
+(i) Accommodate and recognize a student's existing knowledge, such as knowledge 
+attained through employment or military service; and  
+(ii) Close competency gaps between demonstrated prior knowledge or competency and 
+the full requirements of a particular course or program.  
+(4) Entering into a written arrangement under 34 CFR 668.5 under which an institution or 
+organization not certified to participate in the title IV, HEA programs offers up to 25 percent of 
+one or more of the accredited institution's educational programs.  
+(c) Institutions that have successfully completed at least one cycle of accreditation and have received 
+agency approval for the addition of at least two additional locations as provided in paragraph (a)(1)(ii)(I) 
+of this section, and that have not been placed on probation or equivalent status or been subject to a 
+negative action by the agency over the prior three academic years, and that are not under a provisional 
+certification, as provided in 34 CFR 668.13, need not apply for agency approval of subsequent additions 
+of locations, and must report these changes to the accrediting agency within 30 days, if the institution 
+has met criteria established by the agency indicating sufficient capacity to add additional locations 
+without individual prior approvals, including, at a minimum, satisfactory evidence of a system to ensure 
+quality across a distributed enterprise that includes—  
+(1) Clearly identified academic control;  
+(2) Regular evaluation of the locations;  
+(3) Adequate faculty, facilities, resources, and academic and student support systems;  
+(4) Financial stability; and  
+(5) Long-range planning for expansion.  
+(d) The agency must have an effective mechanism for conducting, at reasonable intervals, visits to a 
+representative sample of additional locations approved under paragraphs (a)(1)(ii)(H) and (I) of this 
+section.  
+(e) The agency may determine the procedures it uses to grant prior approval of the substantive change. 
+However, these procedures must specify an effective date, on which the change is included in the 
+program's or institution's grant of accreditation or preaccreditation. The date of prior approval must not 
+pre-date either an earlier agency denial of the substantive change, or the agency's formal acceptance of 
+the application for the substantive change for inclusion in the program's or institution's grant of 
+accreditation or preaccreditation. An agency may designate the date of a change in ownership as the 
+effective date of its approval of that substantive change if the accreditation decision is made within 30 
+days of the change in ownership. Except as provided in paragraphs (d) and (f) of this section, an agency 
+may require a visit before granting such an approval.  
+(f) Except as provided in paragraph (c) of this section, if the agency's accreditation of an institution 
+enables the institution to seek eligibility to participate in title IV, HEA programs, the agency's procedures 
+for the approval of an additional location that is not a branch campus where at least  
+50 percent of an educational program is offered must include—  
+(1) A visit, within six months, to each additional location the institution establishes, if the 
+institution—  
+(i) Has a total of three or fewer additional locations;  
+(ii) Has not demonstrated, to the agency's satisfaction, that the additional location is 
+meeting all of the agency's standards that apply to that additional location; or  
+Page 26 of 37 
+ 
+ 
+(iii) Has been placed on warning, probation, or show cause by the agency or is subject to 
+some limitation by the agency on its accreditation or preaccreditation status;  
+(2) A mechanism for conducting, at reasonable intervals, visits to a representative sample of 
+additional locations of institutions that operate more than three additional locations; and  
+(3) A mechanism, which may, at the agency's discretion, include visits to additional locations, for 
+ensuring that accredited and preaccredited institutions that experience rapid growth in the 
+number of additional locations maintain education quality.  
+(g) The purpose of the visits described in paragraph (f) of this section is to verify that the additional 
+location has the personnel, facilities, and resources the institution claimed it had in its application to the 
+agency for approval of the additional location.  
+(h) The agency's substantive change policy must define when the changes made or proposed by an 
+institution are or would be sufficiently extensive to require the agency to conduct a new comprehensive 
+evaluation of that institution.  
+ 
+In Petition 
+File Review 
+• Page numbers of the agency‘s standards, policies, 
+and procedures manual(s) that describe the agency’s 
+substantive change policies and procedures, to 
+include policies related to all types of substantive 
+change described in this section, decisions made by 
+senior staff, retroactive approval of changes, and 
+when a determination is made by an agency that 
+substantive changes required a comprehensive 
+accreditation review. 
+• A copy of a substantive change review (application, 
+correspondence, and decision letter) for each type of 
+substantive change request made during the current 
+recognition period. 
+• A list of substantive change requests made by 
+institutions, the status of those requests during the 
+current recognition period, and whether each was 
+subject to notification. 
+• A list of additional locations that have been opened 
+during the current review period, if applicable, and 
+whether each was subject to prior approval. 
+• The agency’s policy for conducting site visits at a 
+reasonable interval to a representative sample of 
+additional locations and a record of all site visits 
+conducted of additional locations. 
+• The agency’s policy on how it defines whether an 
+additional location offers 50 percent of an 
+educational program 
+• The agency’s policy on how it determines that a 
+written arrangement does not exceed 50 percent of 
+an educational program. 
+• A copy of a substantive change request from one 
+institution or program reviewed for distance 
+• Review of files for institutions that have requested 
+substantive changes and the type of change 
+requested. 
+• Records of site visits for additional locations, 
+including decisions made by the agency. 
+• Documentation of review of the percent of each 
+educational program offered at the additional 
+location. 
+• Records of the review of written arrangements, 
+including the determination of the amount of an 
+educational program provided. 
+• Minutes from meetings of the agency’s decision-
+making bodies in which substantive changes were 
+reviewed and approved/denied. 
+•Documentation of the approval or denial of 
+substantive changes by senior staff. 
+• Records of site visits of additional locations among 
+institutions that operate more than three additional 
+locations, if applicable. 
+• Review of change of control requests and 
+subsequent decisions and any related follow up 
+reviews.  
+ 
+ 
+Page 27 of 37 
+ 
+ 
+In Petition 
+File Review 
+education, correspondence courses, or direct 
+assessment program, the corresponding site visit 
+report, and decision letter, if applicable. 
+ 
+ 
+ 
+§ 602.23 Operating procedures all agencies must have. 
+(a) The agency must maintain and make available to the public written materials describing-- 
+(1) Each type of accreditation and preaccreditation it grants; 
+(2) The procedures that institutions or programs must follow in applying for accreditation, 
+preaccreditation, or substantive changes and the sequencing of those steps relative to any 
+applications or decisions required by States or the Department relative to the agency's 
+preaccreditation, accreditation, or substantive change decisions; 
+(3) The standards and procedures it uses to determine whether to grant, reaffirm, reinstate, 
+restrict, deny, revoke, terminate, or take any other action related to each type of accreditation 
+and preaccreditation that the agency grants; 
+(4) The institutions and programs that the agency currently accredits or preaccredits and, for 
+each institution and program, the year the agency will next review or reconsider it for 
+accreditation or preaccreditation; and 
+(5) A list of the names, academic and professional qualifications, and relevant employment and 
+organizational affiliations of—  
+(i) The members of the agency's policy and decision-making bodies; and 
+(ii) The agency's principal administrative staff. 
+(b) In providing public notice that an institution or program subject to its jurisdiction is being considered 
+for accreditation or preaccreditation, the agency must provide an opportunity for third-party comment 
+concerning the institution's or program's qualifications for accreditation or preaccreditation. At the 
+agency's discretion, third-party comment may be received either in writing or at a public hearing, or 
+both.  
+(c) The accrediting agency must-- 
+(1) Review in a timely, fair, and equitable manner any complaint it receives against an accredited 
+institution or program that is related to the agency's standards or procedures. The agency may 
+not complete its review and make a decision regarding a complaint unless, in accordance with 
+published procedures, it ensures that the institution or program has sufficient opportunity to 
+provide a response to the complaint; 
+(2) Take follow-up action, as necessary, including enforcement action, if necessary, based on the 
+results of its review; and 
+(3) Review in a timely, fair, and equitable manner, and apply unbiased judgment to, any 
+complaints against itself and take follow-up action, as appropriate, based on the results of its 
+review. 
+(d) If an institution or program elects to make a public disclosure of its accreditation or preaccreditation 
+status, the agency must ensure that the institution or program discloses that status accurately, including 
+the specific academic or instructional programs covered by that status and the name and contact 
+information for the agency.  
+(e) The accrediting agency must provide for the public correction of incorrect or misleading information 
+an accredited or preaccredited institution or program releases about-- 
+(1) The accreditation or preaccreditation status of the institution or program; 
+Page 28 of 37 
+ 
+ 
+(2) The contents of reports of on-site reviews; and 
+(3) The agency's accrediting or preaccrediting actions with respect to the institution or program. 
+(f) 
+(1) If preaccreditation is offered—  
+(i) The agency's preaccreditation policies must limit the status to institutions or 
+programs that the agency has determined are likely to succeed in obtaining 
+accreditation;  
+(ii) The agency must require all preaccredited institutions to have a teach-out plan, 
+which must ensure students completing the teach-out would meet curricular 
+requirements for professional licensure or certification, if any, and which must include a 
+list of academic programs offered by the institution and the names of other institutions 
+that offer similar programs and that could potentially enter into a teach-out agreement 
+with the institution;  
+ (iii) An agency that denies accreditation to an institution it has preaccredited may 
+maintain the institution's preaccreditation for currently enrolled students until the 
+institution has had a reasonable time to complete the activities in its teach-out plan to 
+assist students in transferring or completing their programs, but for no more than 120 
+days unless approved by the agency for good cause; and  
+ (iv) The agency may not move an accredited institution or program from accredited to 
+preaccredited status unless, following the loss of accreditation, the institution or 
+program applies for initial accreditation and is awarded preaccreditation status under 
+the new application. Institutions that participated in the title IV, HEA programs before 
+the loss of accreditation are subject to the requirements of 34 CFR 600.11(c).  
+(2) All credits and degrees earned and issued by an institution or program holding 
+preaccreditation from a nationally recognized agency are considered by the Secretary to be from 
+an accredited institution or program. 
+(g) The agency may establish any additional operating procedures it deems appropriate. At the agency's 
+discretion, these may include unannounced inspections.  
+ 
+In Petition 
+File Review 
+• The website link and pages of the agency’s website (or other 
+forum) where public materials are posted, including the list of 
+accredited programs or institutions, and the information listed in 
+this section. 
+• Page numbers within the agency‘s standards, policies, and 
+procedures manual(s) that describe the agency’s polices related to 
+the requirement of this section, including those related to: 
+complaints received against its institutions/programs, complaints 
+against itself; public disclosure of accreditation status, public 
+correction of misleading information, and preaccreditation. 
+• Documentation of an example of a third-party comment 
+received/reviewed by the agency; a complaint received against an 
+institution or program; a complaint received against the agency, 
+and preaccreditation activities, as applicable. 
+• If applicable, additional examples of 
+third-party comments received and 
+reviewed by the agency. 
+• Documentation of the review, 
+decision, and, if applicable, action 
+taken on any complaints received 
+during the agency's period of 
+recognition for institutions/programs 
+or against itself. 
+• If applicable, documentation of 
+implementation of its preaccreditation 
+standards, policies, and procedures. 
+ 
+ 
+ 
+Page 29 of 37 
+ 
+ 
+§ 602.24 Additional procedures certain institutional agencies must have.  
+If the agency is an institutional accrediting agency and its accreditation or preaccreditation enables those 
+institutions to obtain eligibility to participate in title IV, HEA programs, the agency must demonstrate that it has 
+established and uses all of the following procedures:  
+(a) Branch campus. The agency must require the institution to notify the agency if it plans to establish a 
+branch campus and to submit a business plan for the branch campus that describes—  
+(1) The educational program to be offered at the branch campus; and  
+(2) The projected revenues and expenditures and cash flow at the branch campus.  
+(b) Site visits. The agency must undertake a site visit to a new branch campus or following a change of 
+ownership or control as soon as practicable, but no later than six months, after the establishment of that 
+campus or the change of ownership or control.  
+(c) Teach-out plans and agreements.  
+(1) The agency must require an institution it accredits to submit a teach-out plan as defined in 34 
+CFR 600.2 to the agency for approval upon the occurrence of any of the following events:  
+(i) For a nonprofit or proprietary institution, the Secretary notifies the agency of a 
+determination by the institution's independent auditor expressing doubt about the 
+institution's ability to operate as a going concern or indicating an adverse opinion or a 
+finding of material weakness related to financial stability.  
+ (ii) The agency acts to place the institution on probation or equivalent status.  
+ (iii) The Secretary notifies the agency that the institution is participating in title IV, HEA 
+programs under a provisional program participation agreement and the Secretary has 
+required a teach-out plan as a condition of participation.  
+(2) The agency must require an institution it accredits or preaccredits to submit a teach-out plan 
+and, if practicable, teach-out agreements (as defined in 34 CFR 600.2) to the agency for approval 
+upon the occurrence of any of the following events:  
+(i) The Secretary notifies the agency that it has placed the institution on the 
+reimbursement payment method under 34 CFR 668.162(c) or the heightened cash 
+monitoring payment method requiring the Secretary's review of the institution's 
+supporting documentation under 34 CFR 668.162(d)(2).  
+(ii) The Secretary notifies the agency that the Secretary has initiated an emergency 
+action against an institution, in accordance with section 487(c)(1)(G) of the HEA, or an 
+action to limit, suspend, or terminate an institution participating in any title IV, HEA 
+program, in accordance with section 487(c)(1)(F) of the HEA.  
+ (iii) The agency acts to withdraw, terminate, or suspend the accreditation or 
+preaccreditation of the institution.  
+ (iv) The institution notifies the agency that it intends to cease operations entirely or 
+close a location that provides one hundred percent of at least one program, including if 
+the location is being moved and is considered by the Secretary to be a closed school.  
+(v) A State licensing or authorizing agency notifies the agency that an institution's 
+license or legal authorization to provide an educational program has been or will be 
+revoked.  
+(3) The agency must evaluate the teach-out plan to ensure it includes a list of currently enrolled 
+students, academic programs offered by the institution, and the names of other institutions that 
+offer similar programs and that could potentially enter into a teach-out agreement with the 
+institution.  
+Page 30 of 37 
+ 
+ 
+(4) If the agency approves a teach-out plan that includes a program or institution that is 
+accredited by another recognized accrediting agency, it must notify that accrediting agency of its 
+approval.  
+(5) The agency may require an institution it accredits or preaccredits to enter into a teach-out 
+agreement as part of its teach-out plan.  
+(6) The agency must require a closing institution to include in its teach-out agreement—  
+(i) A complete list of students currently enrolled in each program at the institution and 
+the program requirements each student has completed;  
+(ii) A plan to provide all potentially eligible students with information about how to 
+obtain a closed school discharge and, if applicable, information on State refund policies; 
+(iii) A record retention plan to be provided to all enrolled students that delineates the 
+final disposition of teach-out records (e.g., student transcripts, billing, financial aid 
+records);  
+(iv) Information on the number and types of credits the teach-out institution is willing to 
+accept prior to the student's enrollment; and  
+(v) A clear statement to students of the tuition and fees of the educational program and 
+the number and types of credits that will be accepted by the teach-out institution.  
+(7) The agency must require an institution it accredits or preaccredits that enters into a teach-out 
+agreement, either on its own or at the request of the agency, to submit that teachout agreement 
+for approval. The agency may approve the teachout agreement only if the agreement meets the 
+requirements of 34 CFR 600.2 and this section, is consistent with applicable standards and 
+regulations, and provides for the equitable treatment of students being served by ensuring that 
+the teachout institution—  
+(i) Has the necessary experience, resources, and support services to provide an 
+educational program that is of acceptable quality and reasonably similar in content, 
+delivery modality, and scheduling to that provided by the institution that is ceasing 
+operations either entirely or at one of its locations; however, while an option via an 
+alternate method of delivery may be made available to students, such an option is not 
+sufficient unless an option via the same method of delivery as the original educational 
+program is also provided;  
+ (ii) Has the capacity to carry out its mission and meet all obligations to existing 
+students; and  
+ (iii) Demonstrates that it—  
+(A) Can provide students access to the program and services without requiring 
+them to move or travel for substantial distances or durations; and  
+(B) Will provide students with information about additional charges, if any.  
+(8) Irrespective of any teach-out plan or signed teach-out agreement, the agency must not 
+permit an institution to serve as a teach-out institution under the following conditions:  
+ (i) The institution is subject to the conditions in paragraph (c)(1) or (2) of this section.  
+ (ii) The institution is under investigation, subject to an action, or being prosecuted for an 
+issue related to academic quality, misrepresentation, fraud, or other severe matters by a 
+law enforcement agency.  
+(9) The agency is permitted to waive requirements regarding the percentage of credits that must 
+be earned by a student at the institution awarding the educational credential if the student is 
+completing his or her program through a written teach-out agreement or transfer.  
+(10) The agency must require the institution to provide copies of all notifications from the 
+institution related to the institution's closure or to teach-out options to ensure the information 
+accurately represents students' ability to transfer credits and may require corrections.  
+Page 31 of 37 
+ 
+ 
+(d) Closed institution. If an institution the agency accredits or preaccredits closes without a teach-out 
+plan or agreement, the agency must work with the Department and the appropriate State agency, to the 
+extent feasible, to assist students in finding reasonable opportunities to complete their education 
+without additional charges.  
+(e) Transfer of credit policies. The accrediting agency must confirm, as part of its review for initial 
+accreditation or preaccreditation, or renewal of accreditation, that the institution has transfer of credit 
+policies that—  
+(1) Are publicly disclosed in accordance with § 668.43(a)(11); and  
+(2) Include a statement of the criteria established by the institution regarding the transfer of 
+credit earned at another institution of higher education.  
+(f) Agency designations. In its accrediting practice, the agency must—  
+(1) Adopt and apply the definitions of “branch campus” and “additional location” in 34 CFR 
+600.2;  
+(2) On the Secretary's request, conform its designations of an institution's branch campuses and 
+additional locations with the Secretary's if it learns its designations diverge; and  
+(3) Ensure that it does not accredit or preaccredit an institution comprising fewer than all of the 
+programs, branch campuses, and locations of an institution as certified for title IV participation 
+by the Secretary, except with notice to and permission from the Secretary.  
+ 
+In Petition 
+File Review 
+• Page numbers for the agency‘s standards, policies, and procedures 
+manual(s) related to the requirements of this section, including those 
+related to teach-out plans, branch campuses (as defined by the 
+Department in § 600.2), and transfer of credit policies. 
+• One example of an application for, approval of, and site visit report 
+for a branch campus during the recognition period, if applicable. 
+• One example of the application, approval of, and site visit report for 
+a change of ownership, if applicable. 
+• One example demonstrating review of a teach-out plan and of a 
+teach-out agreement during the recognition period, if applicable, to 
+include the submitted version and the approved version. 
+• One example of notification to a recognized agency of the approval 
+of a teach-out plan or teach-out agreement, if applicable. 
+• Documentation of the agency’s published definitions of “additional 
+location” and “branch campus.” 
+• One example of the review of transfer of credit policies during the 
+recognition period. 
+• A copy of the agency’s notice to the Secretary and the Secretary’s 
+permission, if the agency has accredited or preaccredited an institution 
+comprising fewer than all of the programs, branch campuses, and 
+locations of an institution as certified for title IV participation by the 
+Secretary. 
+• A list of institutions required to submit a teach-out plan and/or 
+teach-out agreement during the recognition period, whether a plan or 
+agreement was required, when the plan or agreement was submitted, 
+and if applicable, a date of closure for the institution. 
+• Additional examples of branch 
+campus applications, approvals, and 
+site visits, if applicable. 
+• Additional examples of change of 
+ownership applications, approvals, 
+and site visits, if applicable. 
+• Additional examples of teach-out 
+plans, during the recognition period, 
+if applicable. 
+• Additional examples of 
+notification to recognized agencies 
+during the recognition period, if 
+applicable. 
+• Additional examples of teach-out 
+agreements, during the recognition 
+period, if applicable. 
+• Three examples of the review of 
+transfer of credit policies during the 
+recognition period. 
+ 
+ 
+Page 32 of 37 
+ 
+ 
+ 
+§ 602.25 Due process. 
+The agency must demonstrate that the procedures it uses throughout the accrediting process satisfy due process. 
+The agency meets this requirement if the agency does the following: 
+(a) Provides adequate written specification of its requirements, including clear standards, for an 
+institution or program to be accredited or preaccredited. 
+(b) Uses procedures that afford an institution or program a reasonable period of time to comply with the 
+agency's requests for information and documents.  
+(c) Provides written specification of any deficiencies identified at the institution or program examined. 
+(d) Provides sufficient opportunity for a written response by an institution or program regarding any 
+deficiencies identified by the agency, to be considered by the agency within a time frame determined by 
+the agency, and before any adverse action is taken. 
+(e) Notifies the institution or program in writing of any adverse accrediting action or an action to place 
+the institution or program on probation or show cause. The notice describes the basis for the action.  
+(f) Provides an opportunity, upon written request of an institution or program, for the institution or 
+program to appeal any adverse action prior to the action becoming final. 
+(1) The appeal must take place at a hearing before an appeals panel that-- 
+(i) May not include current members of the agency's decision-making body that took the 
+initial adverse action; 
+(ii) Is subject to a conflict of interest policy; 
+(iii) Does not serve only an advisory or procedural role, and has and uses the authority to 
+make the following decisions: To affirm, amend, or remand adverse actions of the 
+original decision-making body; and 
+(iv) Affirms, amends, or remands the adverse action. A decision to affirm or amend the 
+adverse action is implemented by the appeals panel or by the original decision-making 
+body, at the agency's option; however, in the event of a decision by the appeals panel to 
+remand the adverse action to the original decision-making body for further 
+consideration, the appeals panel must explain the basis for a decision that differs from 
+that of the original decision-making body and the original decision-making body in a 
+remand must act in a manner consistent with the appeals panel's decisions or 
+instructions. 
+(2) The agency must recognize the right of the institution or program to employ counsel to 
+represent the institution or program during its appeal, including to make any presentation that 
+the agency permits the institution or program to make on its own during the appeal. 
+(g) The agency notifies the institution or program in writing of the result of its appeal and the basis for 
+that result. 
+(h) 
+(1) The agency must provide for a process, in accordance with written procedures, through 
+which an institution or program may, before the agency reaches a final adverse action decision, 
+seek review of new financial information if all of the following conditions are met: 
+(i) The financial information was unavailable to the institution or program until after the 
+decision subject to appeal was made. 
+ (ii) The financial information is significant and bears materially on the financial 
+deficiencies identified by the agency. The criteria of significance and materiality are 
+determined by the agency. 
+Page 33 of 37 
+ 
+ 
+(iii) The only remaining deficiency cited by the agency in support of a final adverse 
+action decision is the institution's or program's failure to meet an agency standard 
+pertaining to finances. 
+(2) An institution or program may seek the review of new financial information described in 
+paragraph (h)(1) of this section only once and any determination by the agency made with 
+respect to that review does not provide a basis for an appeal. 
+ 
+In Petition 
+File Review 
+• Page numbers of the agency’s standards, policies 
+and procedures manual(s) related to due process. 
+• An example of the notice required by paragraph (c).  
+• An example of a written response described in 
+paragraph (d). 
+• An example of a notice described in paragraph (e). 
+• An example of an appeal, to include the 
+composition of the panel, the panel decision, written 
+notification of decision, and any subsequent 
+decisions made in response to the appeal panel 
+decision, if applicable. 
+• Examples of any additional appeals, to include the 
+appeal panel composition, and decisions during the 
+recognition period, if applicable.  
+• Examples of any reviews of new financial 
+information prior to a final adverse action, if 
+applicable, as documented by the minutes of 
+decision-making bodies or appeal bodies.  
+• A review of any complaints against the agency 
+regarding due process violations, including any suits 
+filed against the agency or any instances of 
+arbitration to resolve such complaints, and the 
+resolution to those complaints.  
+ 
+ 
+§ 602.26 Notification of accrediting decisions. 
+The agency must demonstrate that it has established and follows written procedures requiring it to provide 
+written notice of its accrediting decisions to the Secretary, the appropriate State licensing or authorizing agency, 
+the appropriate accrediting agencies, and the public. The agency meets this requirement if the agency, following 
+its written procedures-- 
+(a) Provides written notice of the following types of decisions to the Secretary, the appropriate State 
+licensing or authorizing agency, the appropriate accrediting agencies, and the public no later than 30 
+days after it makes the decision: 
+(1) A decision to award initial accreditation or preaccreditation to an institution or program. 
+(2) A decision to renew an institution's or program's accreditation or preaccreditation;  
+(b) Provides written notice of a final decision of a probation or equivalent status or an initiated adverse 
+action to the Secretary, the appropriate State licensing or authorizing agency, and the appropriate 
+accrediting agencies at the same time it notifies the institution or program of the decision and requires 
+the institution or program to disclose such an action within seven business days of receipt to all current 
+and prospective students;  
+(c) Provides written notice of the following types of decisions to the Secretary, the appropriate State 
+licensing or authorizing agency, and the appropriate accrediting agencies at the same time it notifies the 
+institution or program of the decision, but no later than 30 days after it reaches the decision:  
+(1) A final decision to deny, withdraw, suspend, revoke, or terminate the accreditation or 
+preaccreditation of an institution or program.  
+(2) A final decision to take any other adverse action, as defined by the agency, not listed in 
+paragraph (c)(1) of this section;  
+(d) Provides written notice to the public of the decisions listed in paragraphs (b) and (c) of this section 
+within one business day of its notice to the institution or program;  
+Page 34 of 37 
+ 
+ 
+(e) For any decision listed in paragraph (c) of this section, requires the institution or program to disclose 
+the decision to current and prospective students within seven business days of receipt and makes 
+available to the Secretary, the appropriate State licensing or authorizing agency, and the public, no later 
+than 60 days after the decision, a brief statement summarizing the reasons for the agency's decision and 
+the official comments that the affected institution or program may wish to make with regard to that 
+decision, or evidence that the affected institution has been offered the opportunity to provide official 
+comment;  
+(f) Notifies the Secretary, the appropriate State licensing or authorizing agency, the appropriate 
+accrediting agencies, and, upon request, the public if an accredited or preaccredited institution or 
+program—  
+(1) Decides to withdraw voluntarily from accreditation or preaccreditation, within 10 business 
+days of receiving notification from the institution or program that it is withdrawing voluntarily 
+from accreditation or preaccreditation; or  
+(2) Lets its accreditation or preaccreditation lapse, within 10 business days of the date on which 
+accreditation or preaccreditation lapses.  
+ 
+In Petition 
+File Review 
+• Page numbers for the agency’s 
+standards, policies, and procedures 
+manual(s) related to the notification of 
+accreditation decisions. 
+• Documentation to demonstrate the 
+agency has submitted the required 
+accreditation decisions to the 
+Department via the Database of 
+Accredited Postsecondary Institutions 
+and Programs (DAPIP) for the prior year. 
+• Links to all locations where the agency 
+provides written notification to the public 
+of any action or final decision taken 
+against an institution or program. 
+• For each institution or program against 
+which the agency has taken probation, 
+show cause or an equivalent, or an 
+adverse action during the recognition 
+period, include a list of all actions the 
+agency has taken for the institution or 
+program in the previous five years (to 
+including warnings, monitoring 
+requirements, or other actions). 
+• Examples of written notices (letter, screenshot of website, etc.) 
+of awarding initial or the renewal of accreditation to the required 
+entities no later than 30 days after making the decision.  
+• Examples of written notice (letter, screenshot of website, etc.) 
+of a final decision of probation or equivalent status or an initiated 
+adverse action to the required entities at the same time as the 
+institution/program to include notice to the public within one 
+business day. 
+• Examples of written notice (letter, screenshot of a website, etc.) 
+of a final decision of probation or equivalent status, an initiated 
+adverse action, or a final adverse action to current and 
+prospective students within seven business days. 
+• Examples of written notice (letter, screenshot of website, etc.) 
+of a final adverse action to the required entities at the same time 
+as the institution/program but no later than 30 days after making 
+the decision, to include notice to the public within one business 
+day. 
+• Examples of the agency's adverse action summary and 
+institution/program comments (or documentation of response 
+opportunity) to the required entities within 60 days after the 
+decision, if applicable.  
+• Examples of written notice of the voluntary withdrawal of an 
+institution/program to the required entities within 10 days of 
+receipt of notification, if applicable.  
+• An example of written notice of accreditation lapse to the 
+required entities within 10 days of the lapse, if applicable.  
+ 
+ 
+ 
+Page 35 of 37 
+ 
+ 
+§ 602.27 Other information an agency must provide the Department. 
+(a) The agency must submit to the Department—  
+(1) A list, updated annually, of its accredited and preaccredited institutions and programs, which 
+may be provided electronically;  
+(2) A summary of the agency's major accrediting activities during the previous year (an annual 
+data summary), if requested by the Secretary to carry out the Secretary's responsibilities related 
+to this part;  
+(3) Any proposed change in the agency's policies, procedures, or accreditation or 
+preaccreditation standards that might alter its—  
+ (i) Scope of recognition, except as provided in paragraph (a)(4) of this section; or  
+ (ii) Compliance with the criteria for recognition;  
+(4) Notification that the agency has expanded its scope of recognition to include distance 
+education or correspondence courses as provided in section 496(a)(4)(B)(i)(I) of the HEA. Such an 
+expansion of scope is effective on the date the Department receives the notification;  
+(5) The name of any institution or program it accredits that the agency has reason to believe is 
+failing to meet its title IV, HEA program responsibilities or is engaged in fraud or abuse, along 
+with the agency's reasons for concern about the institution or program; and  
+(6) If the Secretary requests, information that may bear upon an accredited or preaccredited 
+institution's compliance with its title IV, HEA program responsibilities, including the eligibility of 
+the institution or program to participate in title IV, HEA programs.  
+(b) If an agency has a policy regarding notification to an institution or program of contact with the 
+Department in accordance with paragraph (a)(5) or (6) of this section, it must provide for a case-by-case 
+review of the circumstances surrounding the contact, and the need for the confidentiality of that contact. 
+When the Department determines a compelling need for confidentiality, the agency must consider that 
+contact confidential upon specific request of the Department. 
+ 
+In Petition 
+File Review 
+• Page numbers of the agency‘s standards, policies, 
+and procedures manual(s) related to this section.  
+• Documentation to demonstrate the agency has 
+submitted the required information to the 
+Department via the Database of Accredited 
+Postsecondary Institutions and Programs (DAPIP) 
+during the recognition period. 
+• A report under § 602.27(a)(4), if applicable.  
+• An example of a response under § 602.27(a)(5), if 
+applicable. 
+• An example of the review required in § 602.27(b), if 
+applicable. 
+• Additional examples related to compliance with § 
+602.27(a)(4) & (5), if applicable. 
+• Additional examples of the review required in § 
+602.27(b), if applicable.  
+ 
+ 
+ 
+§ 602.28 Regard for decisions of States and other accrediting agencies. 
+(a) If the agency is an institutional accrediting agency, it may not accredit or preaccredit institutions that 
+lack legal authorization under applicable State law to provide a program of education beyond the 
+secondary level.  
+Page 36 of 37 
+ 
+ 
+(b) Except as provided in paragraph (c) of this section, the agency may not grant initial or renewed 
+accreditation or preaccreditation to an institution, or a program offered by an institution, if the agency 
+knows, or has reasonable cause to know, that the institution is the subject of-- 
+(1) A pending or final action brought by a State agency to suspend, revoke, withdraw, or 
+terminate the institution's legal authority to provide postsecondary education in the State; 
+(2) A decision by a recognized agency to deny accreditation or preaccreditation; 
+(3) A pending or final action brought by a recognized accrediting agency to suspend, revoke, 
+withdraw, or terminate the institution's accreditation or preaccreditation; or 
+(4) Probation or an equivalent status imposed by a recognized agency. 
+(c) The agency may grant accreditation or preaccreditation to an institution or program described in 
+paragraph (b) of this section only if it provides to the Secretary, within 30 days of its action, a thorough 
+and reasonable explanation, consistent with its standards, why the action of the other body does not 
+preclude the agency's grant of accreditation or preaccreditation. 
+(d) If the agency learns that an institution it accredits or preaccredits, or an institution that offers a 
+program it accredits or preaccredits, is the subject of an adverse action by another recognized 
+accrediting agency or has been placed on probation or an equivalent status by another recognized 
+agency, the agency must promptly review its accreditation or preaccreditation of the institution or 
+program to determine if it should also take adverse action or place the institution or program on 
+probation or show cause. 
+(e) The agency must, upon request, share with other appropriate recognized accrediting agencies and 
+recognized State approval agencies information about the accreditation or preaccreditation status of an 
+institution or program and any adverse actions it has taken against an accredited or preaccredited 
+institution or program. 
+ 
+In Petition 
+File Review 
+• Page numbers of the 
+agency’s accreditation 
+standards, policies, or 
+procedures manual(s) 
+related to the requirements 
+of this section. 
+• A list of institutions or 
+programs for which the 
+agency received 
+information about an action 
+by a State or another 
+accrediting agency as 
+described in § 602.28(b), 
+along with the dates of 
+subsequent review and 
+action taken by the agency, 
+if applicable. 
+• Review of files to verify the agency’s record of State authorization as 
+required by the Department and the State.  
+• Example of an action an agency took in the event that an institution was not 
+in compliance with State requirements, if applicable.  
+• Examples of any correspondence to the Secretary providing a thorough and 
+reasonable explanation, consistent with its standards, for granting 
+accreditation in the event of a situation described in § 602.28(c), if applicable.  
+• Examples of a review conducted by the agency in the event that another 
+recognized accrediting agency took adverse action or placed an institution or 
+program on show cause or probation, or of instances in which, on request, the 
+agency shared information with other agencies about an institution or program 
+it has taken action against.  
+• Examples of agency inquiries during the accreditation or preaccreditation 
+process as to actions taken with respect to the institution or program by States 
+and other recognized accrediting agencies.  
+ 
+ 
+ 
+ 
+ 
+Page 37 of 37 
+ 
+ 
+Appendix: Required responses by agency type for 34 CFR §§ 602.10-602.28  
+The Secretary’s Criteria 
+ 
+A 
+B 
+C 
+IF THE AGENCY ACCREDITS…* 
+Institutions 
+For TIV purposes 
+Institutions & 
+Programs 
+For non-TIV 
+Purposes 
+Programs only 
+For non-TIV 
+Purposes 
+§602.10-602.14(a) – Eligibility & Category of the 
+Agency 
+X 
+X 
+X 
+§602.14(b-e) – Separate and Independent/Joint Use 
+X 
+ N/A 
+ N/A 
+§602.15(a)(1-2) – Staffing/Representatives 
+X 
+X 
+X 
+§602.15(a)(3) – Academic and Admin Personnel 
+X 
+X 
+N/A 
+§602.15(a)(4) – Educators/Practitioners/Employers 
+N/A** 
+X 
+X 
+§602.15(a)(5)-602.15(b) – Administration 
+X 
+X 
+X 
+602.16(a)(1)(1-vii)(a)(6) – Required Standards 
+X 
+X 
+X 
+§602.16(a)(1)(viii) – Program Length 
+X 
+N/A 
+N/A 
+§602.16(a)(1)(ix) – Student Complaints 
+X 
+X 
+X 
+§602.16(a)(1)(x) – TIV Responsibilities  
+X 
+N/A 
+N/A 
+§602.16(a)(2) – Preaccreditation, if applicable 
+X 
+X 
+X 
+§602.16(b-c) – Institutions Not Participating in TIV 
+X 
+N/A 
+N/A 
+§602.16(d)-602.16(g) – Distance/Correspondence 
+and Separate Standards, if applicable 
+X 
+X 
+X 
+602.17(a)-(f) – Application of Standards 
+X 
+X 
+X 
+§602.17(g) – Distance/Correspondence, if 
+applicable 
+X 
+X 
+N/A 
+§602.17(h) – Student Privacy and Verification 
+X 
+X 
+N/A 
+§602.18 – Consistent Decision-making 
+X 
+X 
+X 
+§602.19(a)-(c) – Monitoring and reevaluation 
+X 
+X 
+X 
+§602.19(d-e) – Significant Growth & Headcount 
+X 
+X 
+N/A 
+§602.20 (a-d) – Enforcement 
+X 
+X 
+X 
+§602.20(e-g) – Enforcement 
+X 
+X – Institutions 
+Only 
+N/A 
+§602.21 – Review of Standards 
+X 
+X 
+X 
+§602.22(a-e) – Substantive Change 
+X 
+X – Institutions 
+Only 
+N/A 
+§602.22(f-g) – Approval of Additional Locations  
+X 
+N/A 
+N/A 
+§602.22(h) – New Evaluation 
+X 
+X – Institutions 
+Only 
+N/A 
+§602.23 – Operating procedures 
+X 
+X 
+X 
+§602.24 – Institutional Accrediting Procedures 
+X 
+N/A 
+N/A 
+§602.25 – Due Process 
+X 
+X 
+X 
+§602.26 – Notification of Accrediting Decisions 
+X 
+X 
+X 
+§602.27(a)(1-4) – Other Information Provided 
+X 
+X 
+X 
+§602.27(a)(5-6) – Fraud and Abuse 
+X 
+N/A 
+N/A 
+§602.28(a) – Legal Authorization 
+X 
+X 
+N/A 
+§602.28(b-e) – Regard for Decisions of Others 
+X 
+X 
+X 
+*An agency that accredits at least one institution 
+for Title IV purposes must use the column A labeled 
+“Institutions – for TIV purposes.”  
+**An agency that accredits single purpose institutions must 
+address 602.15(a)(4). 
+ 
